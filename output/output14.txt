@@ -1,0 +1,33 @@
+characters: 2498730
+words: 250948
+lines: 6021
+<convolutional neural networks>: 196
+<convolutional neural network>: 192
+<deep neural networks>: 140
+<experiments show that>: 108
+<results show that>: 104
+<generative adversarial network>: 84
+<deep convolutional neural>: 76
+<salient object detection>: 68
+<generative adversarial networks>: 64
+<experimental results show>: 60
+<monocular depth estimation>: 60
+<datasets demonstrate that>: 56
+<experiments demonstrate that>: 52
+<unsupervised domain adaptation>: 44
+<this paper proposes>: 44
+<also show that>: 40
+<tackle this problem>: 40
+<performs favorably against>: 40
+<deep neural network>: 40
+<extensive experimental results>: 40
+<human pose estimation>: 36
+<supervised object detection>: 36
+<address this problem>: 32
+<hand pose estimation>: 32
+<this paper presents>: 32
+<this paper introduces>: 32
+<video object segmentation>: 32
+<neural network that>: 32
+<significant improvements over>: 28
+<visual question answering>: 28

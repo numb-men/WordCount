@@ -1,226 +1,293 @@
 
 
 【开始测试 未来之光: cpp: D:\code\java\software_test\repo\unzip\未来之光\wordCount.exe】
-【时间：2019.11.18 at 14:27:42】
+【时间：2019.11.18 at 21:21:26】
 【指令：D:\code\java\software_test\repo\unzip\未来之光\wordCount.exe -i D:/code/java/software_test/team_test_case/input1.txt -o D:/code/java/software_test/repo/unzip/未来之光/output/output1.txt】
 【指令输出】
 【结果： 0】
 
-【时间：2019.11.18 at 14:27:42】
+【时间：2019.11.18 at 21:21:27】
 【指令：D:\code\java\software_test\repo\unzip\未来之光\wordCount.exe -i D:/code/java/software_test/team_test_case/input2.txt -o D:/code/java/software_test/repo/unzip/未来之光/output/output2.txt】
 【指令输出】
 【结果： 0】
 
-【时间：2019.11.18 at 14:27:43】
+【时间：2019.11.18 at 21:21:27】
 【指令：D:\code\java\software_test\repo\unzip\未来之光\wordCount.exe -i D:/code/java/software_test/team_test_case/input3.txt -o D:/code/java/software_test/repo/unzip/未来之光/output/output3.txt -m 3 -n 20】
 【指令输出】
 【结果： 0】
 
-【时间：2019.11.18 at 14:27:43】
+【时间：2019.11.18 at 21:21:27】
 【指令：D:\code\java\software_test\repo\unzip\未来之光\wordCount.exe -i D:/code/java/software_test/team_test_case/input4.txt -o D:/code/java/software_test/repo/unzip/未来之光/output/output4.txt】
 【指令输出】
 【结果： 0】
 
-【时间：2019.11.18 at 14:27:44】
+【时间：2019.11.18 at 21:21:28】
 【指令：D:\code\java\software_test\repo\unzip\未来之光\wordCount.exe -i D:/code/java/software_test/team_test_case/input5.txt -o D:/code/java/software_test/repo/unzip/未来之光/output/output5.txt -n 15】
 【指令输出】
 【结果： 0】
 
-【时间：2019.11.18 at 14:27:44】
+【时间：2019.11.18 at 21:21:29】
 【指令：D:\code\java\software_test\repo\unzip\未来之光\wordCount.exe -i D:/code/java/software_test/team_test_case/input6.txt -o D:/code/java/software_test/repo/unzip/未来之光/output/output6.txt -m 2】
 【指令输出】
 【结果： 0】
 
-【时间：2019.11.18 at 14:27:45】
+【时间：2019.11.18 at 21:21:29】
 【指令：D:\code\java\software_test\repo\unzip\未来之光\wordCount.exe -i D:/code/java/software_test/team_test_case/input7.txt -o D:/code/java/software_test/repo/unzip/未来之光/output/output7.txt】
 【指令输出】
 【结果： 0】
 
-【时间：2019.11.18 at 14:27:45】
+【时间：2019.11.18 at 21:21:29】
 【指令：D:\code\java\software_test\repo\unzip\未来之光\wordCount.exe -i D:/code/java/software_test/team_test_case/input8.txt -o D:/code/java/software_test/repo/unzip/未来之光/output/output8.txt】
 【指令输出】
 【结果： 0】
 
-【时间：2019.11.18 at 14:27:45】
+【时间：2019.11.18 at 21:21:30】
 【指令：D:\code\java\software_test\repo\unzip\未来之光\wordCount.exe -i D:/code/java/software_test/team_test_case/input9.txt -o D:/code/java/software_test/repo/unzip/未来之光/output/output9.txt】
 【指令输出】
 【结果： 0】
 
-【时间：2019.11.18 at 14:27:46】
+【时间：2019.11.18 at 21:21:30】
 【指令：D:\code\java\software_test\repo\unzip\未来之光\wordCount.exe -i D:/code/java/software_test/team_test_case/input10.txt -o D:/code/java/software_test/repo/unzip/未来之光/output/output10.txt】
 【指令输出】
 【结果： 0】
 
-【时间：2019.11.18 at 14:27:46】
+【时间：2019.11.18 at 21:21:30】
 【指令：D:\code\java\software_test\repo\unzip\未来之光\wordCount.exe -i D:/code/java/software_test/team_test_case/input11.txt -o D:/code/java/software_test/repo/unzip/未来之光/output/output11.txt】
 【指令输出】
 【结果： 0】
 
-【时间：2019.11.18 at 14:27:47】
+【时间：2019.11.18 at 21:21:31】
 【指令：D:\code\java\software_test\repo\unzip\未来之光\wordCount.exe -i D:/code/java/software_test/team_test_case/input12.txt -o D:/code/java/software_test/repo/unzip/未来之光/output/output12.txt】
 【指令输出】
 【结果： 0】
 
-【时间：2019.11.18 at 14:27:47】
+【时间：2019.11.18 at 21:21:31】
 【指令：D:\code\java\software_test\repo\unzip\未来之光\wordCount.exe -i D:/code/java/software_test/team_test_case/input13.txt -o D:/code/java/software_test/repo/unzip/未来之光/output/output13.txt -m 2】
 【指令输出】
 【结果： 0】
 
 
+【开始测试 十分宠爱: cpp: D:\code\java\software_test\repo\unzip\十分宠爱\wordcount.exe】
+【时间：2019.11.18 at 21:21:32】
+【指令：D:\code\java\software_test\repo\unzip\十分宠爱\wordcount.exe -i D:/code/java/software_test/team_test_case/input1.txt -o D:/code/java/software_test/repo/unzip/十分宠爱/output/output1.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 21:21:32】
+【指令：D:\code\java\software_test\repo\unzip\十分宠爱\wordcount.exe -i D:/code/java/software_test/team_test_case/input2.txt -o D:/code/java/software_test/repo/unzip/十分宠爱/output/output2.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 21:21:33】
+【指令：D:\code\java\software_test\repo\unzip\十分宠爱\wordcount.exe -i D:/code/java/software_test/team_test_case/input3.txt -o D:/code/java/software_test/repo/unzip/十分宠爱/output/output3.txt -m 3 -n 20】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 21:21:34】
+【指令：D:\code\java\software_test\repo\unzip\十分宠爱\wordcount.exe -i D:/code/java/software_test/team_test_case/input4.txt -o D:/code/java/software_test/repo/unzip/十分宠爱/output/output4.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 21:21:34】
+【指令：D:\code\java\software_test\repo\unzip\十分宠爱\wordcount.exe -i D:/code/java/software_test/team_test_case/input5.txt -o D:/code/java/software_test/repo/unzip/十分宠爱/output/output5.txt -n 15】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 21:21:35】
+【指令：D:\code\java\software_test\repo\unzip\十分宠爱\wordcount.exe -i D:/code/java/software_test/team_test_case/input6.txt -o D:/code/java/software_test/repo/unzip/十分宠爱/output/output6.txt -m 2】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 21:21:35】
+【指令：D:\code\java\software_test\repo\unzip\十分宠爱\wordcount.exe -i D:/code/java/software_test/team_test_case/input7.txt -o D:/code/java/software_test/repo/unzip/十分宠爱/output/output7.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 21:21:35】
+【指令：D:\code\java\software_test\repo\unzip\十分宠爱\wordcount.exe -i D:/code/java/software_test/team_test_case/input8.txt -o D:/code/java/software_test/repo/unzip/十分宠爱/output/output8.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 21:21:36】
+【指令：D:\code\java\software_test\repo\unzip\十分宠爱\wordcount.exe -i D:/code/java/software_test/team_test_case/input9.txt -o D:/code/java/software_test/repo/unzip/十分宠爱/output/output9.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 21:21:36】
+【指令：D:\code\java\software_test\repo\unzip\十分宠爱\wordcount.exe -i D:/code/java/software_test/team_test_case/input10.txt -o D:/code/java/software_test/repo/unzip/十分宠爱/output/output10.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 21:21:37】
+【指令：D:\code\java\software_test\repo\unzip\十分宠爱\wordcount.exe -i D:/code/java/software_test/team_test_case/input11.txt -o D:/code/java/software_test/repo/unzip/十分宠爱/output/output11.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 21:21:37】
+【指令：D:\code\java\software_test\repo\unzip\十分宠爱\wordcount.exe -i D:/code/java/software_test/team_test_case/input12.txt -o D:/code/java/software_test/repo/unzip/十分宠爱/output/output12.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 21:21:37】
+【指令：D:\code\java\software_test\repo\unzip\十分宠爱\wordcount.exe -i D:/code/java/software_test/team_test_case/input13.txt -o D:/code/java/software_test/repo/unzip/十分宠爱/output/output13.txt -m 2】
+【指令输出】
+【结果： 0】
+
+
 【开始测试 computer-hunter: cpp: D:\code\java\software_test\repo\unzip\computer-hunter\wordCount.exe】
-【时间：2019.11.18 at 14:27:53】
+【时间：2019.11.18 at 21:21:42】
 【指令：D:\code\java\software_test\repo\unzip\computer-hunter\wordCount.exe -i D:/code/java/software_test/team_test_case/input1.txt -o D:/code/java/software_test/repo/unzip/computer-hunter/output/output1.txt】
 【指令输出】
-【结果： -1073741819】
+【结果： -1073740791】
 找不到输出文件：D:\code\java\software_test\repo\unzip\computer-hunter\output\output1.txt (系统找不到指定的文件。)
 
-【时间：2019.11.18 at 14:27:57】
+【时间：2019.11.18 at 21:21:46】
 【指令：D:\code\java\software_test\repo\unzip\computer-hunter\wordCount.exe -i D:/code/java/software_test/team_test_case/input2.txt -o D:/code/java/software_test/repo/unzip/computer-hunter/output/output2.txt】
 【指令输出】
-【结果： -1073741819】
+【结果： -1073740791】
 找不到输出文件：D:\code\java\software_test\repo\unzip\computer-hunter\output\output2.txt (系统找不到指定的文件。)
 
-【时间：2019.11.18 at 14:28:02】
+【时间：2019.11.18 at 21:21:50】
 【指令：D:\code\java\software_test\repo\unzip\computer-hunter\wordCount.exe -i D:/code/java/software_test/team_test_case/input3.txt -o D:/code/java/software_test/repo/unzip/computer-hunter/output/output3.txt -m 3 -n 20】
 【指令输出】
-【结果： -1073741819】
+【结果： -1073740791】
 找不到输出文件：D:\code\java\software_test\repo\unzip\computer-hunter\output\output3.txt (系统找不到指定的文件。)
 
-【时间：2019.11.18 at 14:28:06】
+【时间：2019.11.18 at 21:21:54】
 【指令：D:\code\java\software_test\repo\unzip\computer-hunter\wordCount.exe -i D:/code/java/software_test/team_test_case/input4.txt -o D:/code/java/software_test/repo/unzip/computer-hunter/output/output4.txt】
 【指令输出】
-【结果： -1073741819】
+【结果： -1073740791】
 找不到输出文件：D:\code\java\software_test\repo\unzip\computer-hunter\output\output4.txt (系统找不到指定的文件。)
 
-【时间：2019.11.18 at 14:28:10】
+【时间：2019.11.18 at 21:21:58】
 【指令：D:\code\java\software_test\repo\unzip\computer-hunter\wordCount.exe -i D:/code/java/software_test/team_test_case/input5.txt -o D:/code/java/software_test/repo/unzip/computer-hunter/output/output5.txt -n 15】
 【指令输出】
-【结果： -1073741819】
+【结果： -1073740791】
 找不到输出文件：D:\code\java\software_test\repo\unzip\computer-hunter\output\output5.txt (系统找不到指定的文件。)
 
-【时间：2019.11.18 at 14:28:14】
+【时间：2019.11.18 at 21:22:02】
 【指令：D:\code\java\software_test\repo\unzip\computer-hunter\wordCount.exe -i D:/code/java/software_test/team_test_case/input6.txt -o D:/code/java/software_test/repo/unzip/computer-hunter/output/output6.txt -m 2】
 【指令输出】
-【结果： -1073741819】
+【结果： -1073740791】
 找不到输出文件：D:\code\java\software_test\repo\unzip\computer-hunter\output\output6.txt (系统找不到指定的文件。)
 
-【时间：2019.11.18 at 14:28:19】
+【时间：2019.11.18 at 21:22:06】
 【指令：D:\code\java\software_test\repo\unzip\computer-hunter\wordCount.exe -i D:/code/java/software_test/team_test_case/input7.txt -o D:/code/java/software_test/repo/unzip/computer-hunter/output/output7.txt】
 【指令输出】
-【结果： -1073741819】
+【结果： -1073740791】
 找不到输出文件：D:\code\java\software_test\repo\unzip\computer-hunter\output\output7.txt (系统找不到指定的文件。)
 
-【时间：2019.11.18 at 14:28:23】
+【时间：2019.11.18 at 21:22:10】
 【指令：D:\code\java\software_test\repo\unzip\computer-hunter\wordCount.exe -i D:/code/java/software_test/team_test_case/input8.txt -o D:/code/java/software_test/repo/unzip/computer-hunter/output/output8.txt】
 【指令输出】
-【结果： -1073741819】
+【结果： -1073740791】
 找不到输出文件：D:\code\java\software_test\repo\unzip\computer-hunter\output\output8.txt (系统找不到指定的文件。)
 
-【时间：2019.11.18 at 14:28:27】
+【时间：2019.11.18 at 21:22:14】
 【指令：D:\code\java\software_test\repo\unzip\computer-hunter\wordCount.exe -i D:/code/java/software_test/team_test_case/input9.txt -o D:/code/java/software_test/repo/unzip/computer-hunter/output/output9.txt】
 【指令输出】
-【结果： -1073741819】
+【结果： -1073740791】
 找不到输出文件：D:\code\java\software_test\repo\unzip\computer-hunter\output\output9.txt (系统找不到指定的文件。)
 
-【时间：2019.11.18 at 14:28:31】
+【时间：2019.11.18 at 21:22:18】
 【指令：D:\code\java\software_test\repo\unzip\computer-hunter\wordCount.exe -i D:/code/java/software_test/team_test_case/input10.txt -o D:/code/java/software_test/repo/unzip/computer-hunter/output/output10.txt】
 【指令输出】
-【结果： -1073741819】
+【结果： -1073740791】
 找不到输出文件：D:\code\java\software_test\repo\unzip\computer-hunter\output\output10.txt (系统找不到指定的文件。)
 
-【时间：2019.11.18 at 14:28:35】
+【时间：2019.11.18 at 21:22:22】
 【指令：D:\code\java\software_test\repo\unzip\computer-hunter\wordCount.exe -i D:/code/java/software_test/team_test_case/input11.txt -o D:/code/java/software_test/repo/unzip/computer-hunter/output/output11.txt】
 【指令输出】
-【结果： -1073741819】
+【结果： -1073740791】
 找不到输出文件：D:\code\java\software_test\repo\unzip\computer-hunter\output\output11.txt (系统找不到指定的文件。)
 
-【时间：2019.11.18 at 14:28:40】
+【时间：2019.11.18 at 21:22:26】
 【指令：D:\code\java\software_test\repo\unzip\computer-hunter\wordCount.exe -i D:/code/java/software_test/team_test_case/input12.txt -o D:/code/java/software_test/repo/unzip/computer-hunter/output/output12.txt】
 【指令输出】
-【结果： -1073741819】
+【结果： -1073740791】
 找不到输出文件：D:\code\java\software_test\repo\unzip\computer-hunter\output\output12.txt (系统找不到指定的文件。)
 
-【时间：2019.11.18 at 14:28:45】
+【时间：2019.11.18 at 21:22:30】
 【指令：D:\code\java\software_test\repo\unzip\computer-hunter\wordCount.exe -i D:/code/java/software_test/team_test_case/input13.txt -o D:/code/java/software_test/repo/unzip/computer-hunter/output/output13.txt -m 2】
 【指令输出】
-【结果： -1073741819】
+【结果： -1073740791】
 找不到输出文件：D:\code\java\software_test\repo\unzip\computer-hunter\output\output13.txt (系统找不到指定的文件。)
 
 
 【开始测试 碎阅创造营: cpp: D:\code\java\software_test\repo\unzip\碎阅创造营\wordCount.exe】
-【时间：2019.11.18 at 14:28:46】
+【时间：2019.11.18 at 21:22:32】
 【指令：D:\code\java\software_test\repo\unzip\碎阅创造营\wordCount.exe -i D:/code/java/software_test/team_test_case/input1.txt -o D:/code/java/software_test/repo/unzip/碎阅创造营/output/output1.txt】
 【指令输出】
 
 【结果： 0】
 
-【时间：2019.11.18 at 14:28:47】
+【时间：2019.11.18 at 21:22:32】
 【指令：D:\code\java\software_test\repo\unzip\碎阅创造营\wordCount.exe -i D:/code/java/software_test/team_test_case/input2.txt -o D:/code/java/software_test/repo/unzip/碎阅创造营/output/output2.txt】
 【指令输出】
 
 【结果： 0】
 
-【时间：2019.11.18 at 14:28:47】
+【时间：2019.11.18 at 21:22:32】
 【指令：D:\code\java\software_test\repo\unzip\碎阅创造营\wordCount.exe -i D:/code/java/software_test/team_test_case/input3.txt -o D:/code/java/software_test/repo/unzip/碎阅创造营/output/output3.txt -m 3 -n 20】
 【指令输出】
 
 【结果： 0】
 
-【时间：2019.11.18 at 14:28:48】
+【时间：2019.11.18 at 21:22:33】
 【指令：D:\code\java\software_test\repo\unzip\碎阅创造营\wordCount.exe -i D:/code/java/software_test/team_test_case/input4.txt -o D:/code/java/software_test/repo/unzip/碎阅创造营/output/output4.txt】
 【指令输出】
 
 【结果： 0】
 
-【时间：2019.11.18 at 14:28:48】
+【时间：2019.11.18 at 21:22:33】
 【指令：D:\code\java\software_test\repo\unzip\碎阅创造营\wordCount.exe -i D:/code/java/software_test/team_test_case/input5.txt -o D:/code/java/software_test/repo/unzip/碎阅创造营/output/output5.txt -n 15】
 【指令输出】
 
 【结果： 0】
 
-【时间：2019.11.18 at 14:28:48】
+【时间：2019.11.18 at 21:22:34】
 【指令：D:\code\java\software_test\repo\unzip\碎阅创造营\wordCount.exe -i D:/code/java/software_test/team_test_case/input6.txt -o D:/code/java/software_test/repo/unzip/碎阅创造营/output/output6.txt -m 2】
 【指令输出】
 
 【结果： 0】
 
-【时间：2019.11.18 at 14:28:49】
+【时间：2019.11.18 at 21:22:34】
 【指令：D:\code\java\software_test\repo\unzip\碎阅创造营\wordCount.exe -i D:/code/java/software_test/team_test_case/input7.txt -o D:/code/java/software_test/repo/unzip/碎阅创造营/output/output7.txt】
 【指令输出】
 
 【结果： 0】
 
-【时间：2019.11.18 at 14:28:49】
+【时间：2019.11.18 at 21:22:34】
 【指令：D:\code\java\software_test\repo\unzip\碎阅创造营\wordCount.exe -i D:/code/java/software_test/team_test_case/input8.txt -o D:/code/java/software_test/repo/unzip/碎阅创造营/output/output8.txt】
 【指令输出】
 
 【结果： 0】
 
-【时间：2019.11.18 at 14:28:49】
+【时间：2019.11.18 at 21:22:35】
 【指令：D:\code\java\software_test\repo\unzip\碎阅创造营\wordCount.exe -i D:/code/java/software_test/team_test_case/input9.txt -o D:/code/java/software_test/repo/unzip/碎阅创造营/output/output9.txt】
 【指令输出】
 
 【结果： 0】
 
-【时间：2019.11.18 at 14:28:50】
+【时间：2019.11.18 at 21:22:35】
 【指令：D:\code\java\software_test\repo\unzip\碎阅创造营\wordCount.exe -i D:/code/java/software_test/team_test_case/input10.txt -o D:/code/java/software_test/repo/unzip/碎阅创造营/output/output10.txt】
 【指令输出】
 
 【结果： 0】
 
-【时间：2019.11.18 at 14:28:50】
+【时间：2019.11.18 at 21:22:35】
 【指令：D:\code\java\software_test\repo\unzip\碎阅创造营\wordCount.exe -i D:/code/java/software_test/team_test_case/input11.txt -o D:/code/java/software_test/repo/unzip/碎阅创造营/output/output11.txt】
 【指令输出】
 
 【结果： 0】
 
-【时间：2019.11.18 at 14:28:51】
+【时间：2019.11.18 at 21:22:36】
 【指令：D:\code\java\software_test\repo\unzip\碎阅创造营\wordCount.exe -i D:/code/java/software_test/team_test_case/input12.txt -o D:/code/java/software_test/repo/unzip/碎阅创造营/output/output12.txt】
 【指令输出】
 
 【结果： 0】
 
-【时间：2019.11.18 at 14:28:51】
+【时间：2019.11.18 at 21:22:36】
 【指令：D:\code\java\software_test\repo\unzip\碎阅创造营\wordCount.exe -i D:/code/java/software_test/team_test_case/input13.txt -o D:/code/java/software_test/repo/unzip/碎阅创造营/output/output13.txt -m 2】
 【指令输出】
 
@@ -243,74 +310,74 @@
 
 
 【开始测试 灯塔: cpp: D:\code\java\software_test\repo\unzip\灯塔\wordCount.exe】
-【时间：2019.11.18 at 14:28:52】
+【时间：2019.11.18 at 21:22:37】
 【指令：D:\code\java\software_test\repo\unzip\灯塔\wordCount.exe -i D:/code/java/software_test/team_test_case/input1.txt -o D:/code/java/software_test/repo/unzip/灯塔/output/output1.txt】
 【指令输出】
 【结果： 0】
 
-【时间：2019.11.18 at 14:28:53】
+【时间：2019.11.18 at 21:22:37】
 【指令：D:\code\java\software_test\repo\unzip\灯塔\wordCount.exe -i D:/code/java/software_test/team_test_case/input2.txt -o D:/code/java/software_test/repo/unzip/灯塔/output/output2.txt】
 【指令输出】
 【结果： 0】
 
-【时间：2019.11.18 at 14:28:53】
+【时间：2019.11.18 at 21:22:38】
 【指令：D:\code\java\software_test\repo\unzip\灯塔\wordCount.exe -i D:/code/java/software_test/team_test_case/input3.txt -o D:/code/java/software_test/repo/unzip/灯塔/output/output3.txt -m 3 -n 20】
 【指令输出】
 【结果： 0】
 
-【时间：2019.11.18 at 14:28:53】
+【时间：2019.11.18 at 21:22:38】
 【指令：D:\code\java\software_test\repo\unzip\灯塔\wordCount.exe -i D:/code/java/software_test/team_test_case/input4.txt -o D:/code/java/software_test/repo/unzip/灯塔/output/output4.txt】
 【指令输出】
 【结果： 0】
 
-【时间：2019.11.18 at 14:28:54】
+【时间：2019.11.18 at 21:22:38】
 【指令：D:\code\java\software_test\repo\unzip\灯塔\wordCount.exe -i D:/code/java/software_test/team_test_case/input5.txt -o D:/code/java/software_test/repo/unzip/灯塔/output/output5.txt -n 15】
 【指令输出】
 【结果： 0】
 
-【时间：2019.11.18 at 14:28:54】
+【时间：2019.11.18 at 21:22:39】
 【指令：D:\code\java\software_test\repo\unzip\灯塔\wordCount.exe -i D:/code/java/software_test/team_test_case/input6.txt -o D:/code/java/software_test/repo/unzip/灯塔/output/output6.txt -m 2】
 【指令输出】
 【结果： 0】
 
-【时间：2019.11.18 at 14:28:54】
+【时间：2019.11.18 at 21:22:39】
 【指令：D:\code\java\software_test\repo\unzip\灯塔\wordCount.exe -i D:/code/java/software_test/team_test_case/input7.txt -o D:/code/java/software_test/repo/unzip/灯塔/output/output7.txt】
 【指令输出】
 【结果： 0】
 
-【时间：2019.11.18 at 14:28:55】
+【时间：2019.11.18 at 21:22:40】
 【指令：D:\code\java\software_test\repo\unzip\灯塔\wordCount.exe -i D:/code/java/software_test/team_test_case/input8.txt -o D:/code/java/software_test/repo/unzip/灯塔/output/output8.txt】
 【指令输出】
 【结果： 0】
 
-【时间：2019.11.18 at 14:28:55】
+【时间：2019.11.18 at 21:22:40】
 【指令：D:\code\java\software_test\repo\unzip\灯塔\wordCount.exe -i D:/code/java/software_test/team_test_case/input9.txt -o D:/code/java/software_test/repo/unzip/灯塔/output/output9.txt】
 【指令输出】
 【结果： 0】
 
-【时间：2019.11.18 at 14:28:56】
+【时间：2019.11.18 at 21:22:40】
 【指令：D:\code\java\software_test\repo\unzip\灯塔\wordCount.exe -i D:/code/java/software_test/team_test_case/input10.txt -o D:/code/java/software_test/repo/unzip/灯塔/output/output10.txt】
 【指令输出】
 【结果： 0】
 
-【时间：2019.11.18 at 14:28:56】
+【时间：2019.11.18 at 21:22:41】
 【指令：D:\code\java\software_test\repo\unzip\灯塔\wordCount.exe -i D:/code/java/software_test/team_test_case/input11.txt -o D:/code/java/software_test/repo/unzip/灯塔/output/output11.txt】
 【指令输出】
 【结果： 0】
 
-【时间：2019.11.18 at 14:28:56】
+【时间：2019.11.18 at 21:22:41】
 【指令：D:\code\java\software_test\repo\unzip\灯塔\wordCount.exe -i D:/code/java/software_test/team_test_case/input12.txt -o D:/code/java/software_test/repo/unzip/灯塔/output/output12.txt】
 【指令输出】
 【结果： 0】
 
-【时间：2019.11.18 at 14:28:57】
+【时间：2019.11.18 at 21:22:42】
 【指令：D:\code\java\software_test\repo\unzip\灯塔\wordCount.exe -i D:/code/java/software_test/team_test_case/input13.txt -o D:/code/java/software_test/repo/unzip/灯塔/output/output13.txt -m 2】
 【指令输出】
 【结果： 0】
 
 
 【开始测试 T-MAX-FZU: cpp: D:\code\java\software_test\repo\unzip\T-MAX-FZU\wordCount.exe】
-【时间：2019.11.18 at 14:28:57】
+【时间：2019.11.18 at 21:22:42】
 【指令：D:\code\java\software_test\repo\unzip\T-MAX-FZU\wordCount.exe -i D:/code/java/software_test/team_test_case/input1.txt -o D:/code/java/software_test/repo/unzip/T-MAX-FZU/output/output1.txt】
 【指令输出】
 <monday tuesday wednesday>: 1
@@ -318,7 +385,7 @@
 <wednesday thursday friday>: 1
 【结果： 0】
 
-【时间：2019.11.18 at 14:29:02】
+【时间：2019.11.18 at 21:22:46】
 【指令：D:\code\java\software_test\repo\unzip\T-MAX-FZU\wordCount.exe -i D:/code/java/software_test/team_test_case/input2.txt -o D:/code/java/software_test/repo/unzip/T-MAX-FZU/output/output2.txt】
 【指令输出】
 terminate called after throwing an instance of 'std::bad_alloc'
@@ -326,11 +393,11 @@ terminate called after throwing an instance of 'std::bad_alloc'
 【结果： 3】
 找不到输出文件：D:\code\java\software_test\repo\unzip\T-MAX-FZU\output\output2.txt (系统找不到指定的文件。)
 
-【时间：2019.11.18 at 14:29:02】
+【时间：2019.11.18 at 21:22:47】
 【指令：D:\code\java\software_test\repo\unzip\T-MAX-FZU\wordCount.exe -i D:/code/java/software_test/team_test_case/input3.txt -o D:/code/java/software_test/repo/unzip/T-MAX-FZU/output/output3.txt -m 3 -n 20】
 【指令输出】
-<a clear high-resolution>: 39
-<clear high-resolution face>: 9
+<clear high-resolution face>: 27
+<a clear high-resolution>: 25
 <a blurry small>: 3
 <we present a>: 3
 <in this paper,>: 2
@@ -1109,7 +1176,7 @@ title: finding tiny>: 1
 <features conveyed by>: 1
 【结果： 0】
 
-【时间：2019.11.18 at 14:29:03】
+【时间：2019.11.18 at 21:22:47】
 【指令：D:\code\java\software_test\repo\unzip\T-MAX-FZU\wordCount.exe -i D:/code/java/software_test/team_test_case/input4.txt -o D:/code/java/software_test/repo/unzip/T-MAX-FZU/output/output4.txt】
 【指令输出】
 <5
@@ -1256,7 +1323,7 @@ tuesday 2
 tuesday>: 1
 【结果： 0】
 
-【时间：2019.11.18 at 14:29:03】
+【时间：2019.11.18 at 21:22:48】
 【指令：D:\code\java\software_test\repo\unzip\T-MAX-FZU\wordCount.exe -i D:/code/java/software_test/team_test_case/input5.txt -o D:/code/java/software_test/repo/unzip/T-MAX-FZU/output/output5.txt -n 15】
 【指令输出】
 <1
@@ -1319,7 +1386,7 @@ monday 1
 monday>: 1
 【结果： 0】
 
-【时间：2019.11.18 at 14:29:03】
+【时间：2019.11.18 at 21:22:48】
 【指令：D:\code\java\software_test\repo\unzip\T-MAX-FZU\wordCount.exe -i D:/code/java/software_test/team_test_case/input6.txt -o D:/code/java/software_test/repo/unzip/T-MAX-FZU/output/output6.txt -m 2】
 【指令输出】
 <
@@ -1349,7 +1416,7 @@ myfile file
 <filr123 a b>: 1
 【结果： 0】
 
-【时间：2019.11.18 at 14:29:08】
+【时间：2019.11.18 at 21:22:52】
 【指令：D:\code\java\software_test\repo\unzip\T-MAX-FZU\wordCount.exe -i D:/code/java/software_test/team_test_case/input7.txt -o D:/code/java/software_test/repo/unzip/T-MAX-FZU/output/output7.txt】
 【指令输出】
 terminate called after throwing an instance of 'std::bad_alloc'
@@ -1357,7 +1424,7 @@ terminate called after throwing an instance of 'std::bad_alloc'
 【结果： 3】
 找不到输出文件：D:\code\java\software_test\repo\unzip\T-MAX-FZU\output\output7.txt (系统找不到指定的文件。)
 
-【时间：2019.11.18 at 14:29:08】
+【时间：2019.11.18 at 21:22:52】
 【指令：D:\code\java\software_test\repo\unzip\T-MAX-FZU\wordCount.exe -i D:/code/java/software_test/team_test_case/input8.txt -o D:/code/java/software_test/repo/unzip/T-MAX-FZU/output/output8.txt】
 【指令输出】
 <
@@ -1371,7 +1438,7 @@ terminate called after throwing an instance of 'std::bad_alloc'
 <fileand file/ />: 1
 【结果： 0】
 
-【时间：2019.11.18 at 14:29:09】
+【时间：2019.11.18 at 21:22:53】
 【指令：D:\code\java\software_test\repo\unzip\T-MAX-FZU\wordCount.exe -i D:/code/java/software_test/team_test_case/input9.txt -o D:/code/java/software_test/repo/unzip/T-MAX-FZU/output/output9.txt】
 【指令输出】
 <12:30 am at>: 1
@@ -1384,7 +1451,7 @@ terminate called after throwing an instance of 'std::bad_alloc'
 <okerrrr dud boom>: 1
 【结果： 0】
 
-【时间：2019.11.18 at 14:29:09】
+【时间：2019.11.18 at 21:22:53】
 【指令：D:\code\java\software_test\repo\unzip\T-MAX-FZU\wordCount.exe -i D:/code/java/software_test/team_test_case/input10.txt -o D:/code/java/software_test/repo/unzip/T-MAX-FZU/output/output10.txt】
 【指令输出】
 <boom p0p ppop.p>: 1
@@ -1397,7 +1464,7 @@ okay3,okay4oka
 >: 1
 【结果： 0】
 
-【时间：2019.11.18 at 14:29:10】
+【时间：2019.11.18 at 21:22:53】
 【指令：D:\code\java\software_test\repo\unzip\T-MAX-FZU\wordCount.exe -i D:/code/java/software_test/team_test_case/input11.txt -o D:/code/java/software_test/repo/unzip/T-MAX-FZU/output/output11.txt】
 【指令输出】
 <1efg.asdf=12 sdsas
@@ -1415,7 +1482,7 @@ test1 test2 22test3>: 1
 >: 1
 【结果： 0】
 
-【时间：2019.11.18 at 14:29:14】
+【时间：2019.11.18 at 21:22:58】
 【指令：D:\code\java\software_test\repo\unzip\T-MAX-FZU\wordCount.exe -i D:/code/java/software_test/team_test_case/input12.txt -o D:/code/java/software_test/repo/unzip/T-MAX-FZU/output/output12.txt】
 【指令输出】
 terminate called after throwing an instance of 'std::bad_alloc'
@@ -1423,10 +1490,10 @@ terminate called after throwing an instance of 'std::bad_alloc'
 【结果： 3】
 找不到输出文件：D:\code\java\software_test\repo\unzip\T-MAX-FZU\output\output12.txt (系统找不到指定的文件。)
 
-【时间：2019.11.18 at 14:29:15】
+【时间：2019.11.18 at 21:22:59】
 【指令：D:\code\java\software_test\repo\unzip\T-MAX-FZU\wordCount.exe -i D:/code/java/software_test/team_test_case/input13.txt -o D:/code/java/software_test/repo/unzip/T-MAX-FZU/output/output13.txt -m 2】
 【指令输出】
-<bbbb aaaa bbbb>: 4
+<bbbb aaaa bbbb>: 3
 <a bbbb aaaa>: 1
 <aaaa bbbb a>: 1
 <aaaa bbbb aaaa>: 1
@@ -1435,207 +1502,176 @@ terminate called after throwing an instance of 'std::bad_alloc'
 
 
 【开始测试 研途: java: D:\code\java\software_test\repo\unzip\研途\output_classes\wordCount.class】
-【时间：2019.11.18 at 14:29:15】
+【时间：2019.11.18 at 21:23:00】
 【指令：java -classpath D:\code\java\software_test\repo\unzip\研途\output_classes wordCount -i D:/code/java/software_test/team_test_case/input1.txt -o D:/code/java/software_test/repo/unzip/研途/output/output1.txt】
 【指令输出】
 【结果： 0】
 
-【时间：2019.11.18 at 14:29:16】
+【时间：2019.11.18 at 21:23:01】
 【指令：java -classpath D:\code\java\software_test\repo\unzip\研途\output_classes wordCount -i D:/code/java/software_test/team_test_case/input2.txt -o D:/code/java/software_test/repo/unzip/研途/output/output2.txt】
 【指令输出】
 【结果： 0】
 
-【时间：2019.11.18 at 14:29:16】
+【时间：2019.11.18 at 21:23:02】
 【指令：java -classpath D:\code\java\software_test\repo\unzip\研途\output_classes wordCount -i D:/code/java/software_test/team_test_case/input3.txt -o D:/code/java/software_test/repo/unzip/研途/output/output3.txt -m 3 -n 20】
 【指令输出】
 【结果： 0】
 
-【时间：2019.11.18 at 14:29:17】
+【时间：2019.11.18 at 21:23:02】
 【指令：java -classpath D:\code\java\software_test\repo\unzip\研途\output_classes wordCount -i D:/code/java/software_test/team_test_case/input4.txt -o D:/code/java/software_test/repo/unzip/研途/output/output4.txt】
 【指令输出】
 【结果： 0】
 
-【时间：2019.11.18 at 14:29:17】
+【时间：2019.11.18 at 21:23:03】
 【指令：java -classpath D:\code\java\software_test\repo\unzip\研途\output_classes wordCount -i D:/code/java/software_test/team_test_case/input5.txt -o D:/code/java/software_test/repo/unzip/研途/output/output5.txt -n 15】
 【指令输出】
 【结果： 0】
 
-【时间：2019.11.18 at 14:29:18】
+【时间：2019.11.18 at 21:23:03】
 【指令：java -classpath D:\code\java\software_test\repo\unzip\研途\output_classes wordCount -i D:/code/java/software_test/team_test_case/input6.txt -o D:/code/java/software_test/repo/unzip/研途/output/output6.txt -m 2】
 【指令输出】
 【结果： 0】
 
-【时间：2019.11.18 at 14:29:18】
+【时间：2019.11.18 at 21:23:04】
 【指令：java -classpath D:\code\java\software_test\repo\unzip\研途\output_classes wordCount -i D:/code/java/software_test/team_test_case/input7.txt -o D:/code/java/software_test/repo/unzip/研途/output/output7.txt】
 【指令输出】
 【结果： 0】
 
-【时间：2019.11.18 at 14:29:19】
+【时间：2019.11.18 at 21:23:04】
 【指令：java -classpath D:\code\java\software_test\repo\unzip\研途\output_classes wordCount -i D:/code/java/software_test/team_test_case/input8.txt -o D:/code/java/software_test/repo/unzip/研途/output/output8.txt】
 【指令输出】
 【结果： 0】
 
-【时间：2019.11.18 at 14:29:19】
+【时间：2019.11.18 at 21:23:05】
 【指令：java -classpath D:\code\java\software_test\repo\unzip\研途\output_classes wordCount -i D:/code/java/software_test/team_test_case/input9.txt -o D:/code/java/software_test/repo/unzip/研途/output/output9.txt】
 【指令输出】
 【结果： 0】
 
-【时间：2019.11.18 at 14:29:20】
+【时间：2019.11.18 at 21:23:05】
 【指令：java -classpath D:\code\java\software_test\repo\unzip\研途\output_classes wordCount -i D:/code/java/software_test/team_test_case/input10.txt -o D:/code/java/software_test/repo/unzip/研途/output/output10.txt】
 【指令输出】
 【结果： 0】
 
-【时间：2019.11.18 at 14:29:20】
+【时间：2019.11.18 at 21:23:06】
 【指令：java -classpath D:\code\java\software_test\repo\unzip\研途\output_classes wordCount -i D:/code/java/software_test/team_test_case/input11.txt -o D:/code/java/software_test/repo/unzip/研途/output/output11.txt】
 【指令输出】
 【结果： 0】
 
-【时间：2019.11.18 at 14:29:21】
+【时间：2019.11.18 at 21:23:06】
 【指令：java -classpath D:\code\java\software_test\repo\unzip\研途\output_classes wordCount -i D:/code/java/software_test/team_test_case/input12.txt -o D:/code/java/software_test/repo/unzip/研途/output/output12.txt】
 【指令输出】
 【结果： 0】
 
-【时间：2019.11.18 at 14:29:21】
+【时间：2019.11.18 at 21:23:07】
 【指令：java -classpath D:\code\java\software_test\repo\unzip\研途\output_classes wordCount -i D:/code/java/software_test/team_test_case/input13.txt -o D:/code/java/software_test/repo/unzip/研途/output/output13.txt -m 2】
 【指令输出】
 【结果： 0】
 
 
-【开始测试 同行: cpp: D:\code\java\software_test\repo\unzip\同行\wordCount.exe】
-【时间：2019.11.18 at 14:29:22】
-【指令：D:\code\java\software_test\repo\unzip\同行\wordCount.exe -i D:/code/java/software_test/team_test_case/input1.txt -o D:/code/java/software_test/repo/unzip/同行/output/output1.txt】
-【指令输出】
-【结果： 0】
-
-【时间：2019.11.18 at 14:29:23】
-【指令：D:\code\java\software_test\repo\unzip\同行\wordCount.exe -i D:/code/java/software_test/team_test_case/input2.txt -o D:/code/java/software_test/repo/unzip/同行/output/output2.txt】
-【指令输出】
-【结果： 0】
-
-【时间：2019.11.18 at 14:29:23】
-【指令：D:\code\java\software_test\repo\unzip\同行\wordCount.exe -i D:/code/java/software_test/team_test_case/input3.txt -o D:/code/java/software_test/repo/unzip/同行/output/output3.txt -m 3 -n 20】
-【指令输出】
-【结果： 0】
-
-【时间：2019.11.18 at 14:29:23】
-【指令：D:\code\java\software_test\repo\unzip\同行\wordCount.exe -i D:/code/java/software_test/team_test_case/input4.txt -o D:/code/java/software_test/repo/unzip/同行/output/output4.txt】
-【指令输出】
-【结果： 0】
-
-【时间：2019.11.18 at 14:29:24】
-【指令：D:\code\java\software_test\repo\unzip\同行\wordCount.exe -i D:/code/java/software_test/team_test_case/input5.txt -o D:/code/java/software_test/repo/unzip/同行/output/output5.txt -n 15】
-【指令输出】
-【结果： 0】
-
-【时间：2019.11.18 at 14:29:24】
-【指令：D:\code\java\software_test\repo\unzip\同行\wordCount.exe -i D:/code/java/software_test/team_test_case/input6.txt -o D:/code/java/software_test/repo/unzip/同行/output/output6.txt -m 2】
-【指令输出】
-【结果： 0】
-
-【时间：2019.11.18 at 14:29:24】
-【指令：D:\code\java\software_test\repo\unzip\同行\wordCount.exe -i D:/code/java/software_test/team_test_case/input7.txt -o D:/code/java/software_test/repo/unzip/同行/output/output7.txt】
-【指令输出】
-【结果： 0】
-
-【时间：2019.11.18 at 14:29:25】
-【指令：D:\code\java\software_test\repo\unzip\同行\wordCount.exe -i D:/code/java/software_test/team_test_case/input8.txt -o D:/code/java/software_test/repo/unzip/同行/output/output8.txt】
-【指令输出】
-【结果： 0】
-
-【时间：2019.11.18 at 14:29:25】
-【指令：D:\code\java\software_test\repo\unzip\同行\wordCount.exe -i D:/code/java/software_test/team_test_case/input9.txt -o D:/code/java/software_test/repo/unzip/同行/output/output9.txt】
-【指令输出】
-【结果： 0】
-
-【时间：2019.11.18 at 14:29:26】
-【指令：D:\code\java\software_test\repo\unzip\同行\wordCount.exe -i D:/code/java/software_test/team_test_case/input10.txt -o D:/code/java/software_test/repo/unzip/同行/output/output10.txt】
-【指令输出】
-【结果： 0】
-
-【时间：2019.11.18 at 14:29:26】
-【指令：D:\code\java\software_test\repo\unzip\同行\wordCount.exe -i D:/code/java/software_test/team_test_case/input11.txt -o D:/code/java/software_test/repo/unzip/同行/output/output11.txt】
-【指令输出】
-【结果： 0】
-
-【时间：2019.11.18 at 14:29:26】
-【指令：D:\code\java\software_test\repo\unzip\同行\wordCount.exe -i D:/code/java/software_test/team_test_case/input12.txt -o D:/code/java/software_test/repo/unzip/同行/output/output12.txt】
-【指令输出】
-【结果： 0】
-
-【时间：2019.11.18 at 14:29:27】
-【指令：D:\code\java\software_test\repo\unzip\同行\wordCount.exe -i D:/code/java/software_test/team_test_case/input13.txt -o D:/code/java/software_test/repo/unzip/同行/output/output13.txt -m 2】
-【指令输出】
-【结果： 0】
+【开始测试 同行: cpp: D:\code\java\software_test\repo\unzip\同行\WordCount.exe】找不到输出文件：Cannot run program "D:\code\java\software_test\repo\unzip\同行\WordCount.exe": CreateProcess error=216, 该版本的 %1 与你运行的 Windows 版本不兼容。请查看计算机的系统信息，然后联系软件发布者。
+找不到输出文件：Cannot run program "D:\code\java\software_test\repo\unzip\同行\WordCount.exe": CreateProcess error=216, 该版本的 %1 与你运行的 Windows 版本不兼容。请查看计算机的系统信息，然后联系软件发布者。
+找不到输出文件：Cannot run program "D:\code\java\software_test\repo\unzip\同行\WordCount.exe": CreateProcess error=216, 该版本的 %1 与你运行的 Windows 版本不兼容。请查看计算机的系统信息，然后联系软件发布者。
+找不到输出文件：Cannot run program "D:\code\java\software_test\repo\unzip\同行\WordCount.exe": CreateProcess error=216, 该版本的 %1 与你运行的 Windows 版本不兼容。请查看计算机的系统信息，然后联系软件发布者。
+找不到输出文件：Cannot run program "D:\code\java\software_test\repo\unzip\同行\WordCount.exe": CreateProcess error=216, 该版本的 %1 与你运行的 Windows 版本不兼容。请查看计算机的系统信息，然后联系软件发布者。
+找不到输出文件：Cannot run program "D:\code\java\software_test\repo\unzip\同行\WordCount.exe": CreateProcess error=216, 该版本的 %1 与你运行的 Windows 版本不兼容。请查看计算机的系统信息，然后联系软件发布者。
+找不到输出文件：Cannot run program "D:\code\java\software_test\repo\unzip\同行\WordCount.exe": CreateProcess error=216, 该版本的 %1 与你运行的 Windows 版本不兼容。请查看计算机的系统信息，然后联系软件发布者。
+找不到输出文件：Cannot run program "D:\code\java\software_test\repo\unzip\同行\WordCount.exe": CreateProcess error=216, 该版本的 %1 与你运行的 Windows 版本不兼容。请查看计算机的系统信息，然后联系软件发布者。
+找不到输出文件：Cannot run program "D:\code\java\software_test\repo\unzip\同行\WordCount.exe": CreateProcess error=216, 该版本的 %1 与你运行的 Windows 版本不兼容。请查看计算机的系统信息，然后联系软件发布者。
+找不到输出文件：Cannot run program "D:\code\java\software_test\repo\unzip\同行\WordCount.exe": CreateProcess error=216, 该版本的 %1 与你运行的 Windows 版本不兼容。请查看计算机的系统信息，然后联系软件发布者。
+找不到输出文件：Cannot run program "D:\code\java\software_test\repo\unzip\同行\WordCount.exe": CreateProcess error=216, 该版本的 %1 与你运行的 Windows 版本不兼容。请查看计算机的系统信息，然后联系软件发布者。
+找不到输出文件：Cannot run program "D:\code\java\software_test\repo\unzip\同行\WordCount.exe": CreateProcess error=216, 该版本的 %1 与你运行的 Windows 版本不兼容。请查看计算机的系统信息，然后联系软件发布者。
+找不到输出文件：Cannot run program "D:\code\java\software_test\repo\unzip\同行\WordCount.exe": CreateProcess error=216, 该版本的 %1 与你运行的 Windows 版本不兼容。请查看计算机的系统信息，然后联系软件发布者。
 
 
 【开始测试 小福bbs: cpp: D:\code\java\software_test\repo\unzip\小福bbs\wordCount.exe】
-【时间：2019.11.18 at 14:29:27】
+【时间：2019.11.18 at 21:23:11】
 【指令：D:\code\java\software_test\repo\unzip\小福bbs\wordCount.exe -i D:/code/java/software_test/team_test_case/input1.txt -o D:/code/java/software_test/repo/unzip/小福bbs/output/output1.txt】
 【指令输出】
-【结果： 0】
+【结果： -1073740940】
+找不到输出文件：D:\code\java\software_test\repo\unzip\小福bbs\output\output1.txt (系统找不到指定的文件。)
 
-【时间：2019.11.18 at 14:29:31】
+【时间：2019.11.18 at 21:23:16】
 【指令：D:\code\java\software_test\repo\unzip\小福bbs\wordCount.exe -i D:/code/java/software_test/team_test_case/input2.txt -o D:/code/java/software_test/repo/unzip/小福bbs/output/output2.txt】
 【指令输出】
-【结果： -1073741819】
+terminate called after throwing an instance of 'std::length_error'
+  what():  basic_string::_S_create
+【结果： 3】
 找不到输出文件：D:\code\java\software_test\repo\unzip\小福bbs\output\output2.txt (系统找不到指定的文件。)
 
-【时间：2019.11.18 at 14:29:35】
+【时间：2019.11.18 at 21:23:20】
 【指令：D:\code\java\software_test\repo\unzip\小福bbs\wordCount.exe -i D:/code/java/software_test/team_test_case/input3.txt -o D:/code/java/software_test/repo/unzip/小福bbs/output/output3.txt -m 3 -n 20】
 【指令输出】
-【结果： -1073741819】
+terminate called after throwing an instance of 'std::length_error'
+  what():  basic_string::_S_create
+【结果： 3】
 找不到输出文件：D:\code\java\software_test\repo\unzip\小福bbs\output\output3.txt (系统找不到指定的文件。)
 
-【时间：2019.11.18 at 14:29:39】
+【时间：2019.11.18 at 21:23:24】
 【指令：D:\code\java\software_test\repo\unzip\小福bbs\wordCount.exe -i D:/code/java/software_test/team_test_case/input4.txt -o D:/code/java/software_test/repo/unzip/小福bbs/output/output4.txt】
 【指令输出】
-【结果： -1073741819】
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
+【结果： 3】
 找不到输出文件：D:\code\java\software_test\repo\unzip\小福bbs\output\output4.txt (系统找不到指定的文件。)
 
-【时间：2019.11.18 at 14:29:43】
+【时间：2019.11.18 at 21:23:27】
 【指令：D:\code\java\software_test\repo\unzip\小福bbs\wordCount.exe -i D:/code/java/software_test/team_test_case/input5.txt -o D:/code/java/software_test/repo/unzip/小福bbs/output/output5.txt -n 15】
 【指令输出】
-【结果： -1073741819】
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
+【结果： 3】
 找不到输出文件：D:\code\java\software_test\repo\unzip\小福bbs\output\output5.txt (系统找不到指定的文件。)
 
-【时间：2019.11.18 at 14:29:47】
+【时间：2019.11.18 at 21:23:31】
 【指令：D:\code\java\software_test\repo\unzip\小福bbs\wordCount.exe -i D:/code/java/software_test/team_test_case/input6.txt -o D:/code/java/software_test/repo/unzip/小福bbs/output/output6.txt -m 2】
 【指令输出】
-【结果： -1073741819】
+terminate called after throwing an instance of 'std::length_error'
+  what():  basic_string::_S_create
+【结果： 3】
 找不到输出文件：D:\code\java\software_test\repo\unzip\小福bbs\output\output6.txt (系统找不到指定的文件。)
 
-【时间：2019.11.18 at 14:29:47】
+【时间：2019.11.18 at 21:23:32】
 【指令：D:\code\java\software_test\repo\unzip\小福bbs\wordCount.exe -i D:/code/java/software_test/team_test_case/input7.txt -o D:/code/java/software_test/repo/unzip/小福bbs/output/output7.txt】
 【指令输出】
 【结果： 0】
 
-【时间：2019.11.18 at 14:29:48】
+【时间：2019.11.18 at 21:23:36】
 【指令：D:\code\java\software_test\repo\unzip\小福bbs\wordCount.exe -i D:/code/java/software_test/team_test_case/input8.txt -o D:/code/java/software_test/repo/unzip/小福bbs/output/output8.txt】
 【指令输出】
-【结果： 0】
+【结果： -1073740940】
+找不到输出文件：D:\code\java\software_test\repo\unzip\小福bbs\output\output8.txt (系统找不到指定的文件。)
 
-【时间：2019.11.18 at 14:29:48】
+【时间：2019.11.18 at 21:23:43】
 【指令：D:\code\java\software_test\repo\unzip\小福bbs\wordCount.exe -i D:/code/java/software_test/team_test_case/input9.txt -o D:/code/java/software_test/repo/unzip/小福bbs/output/output9.txt】
 【指令输出】
-【结果： 0】
+terminate called after throwing an instance of 'std::length_error'
+  what():  basic_string::_S_create
+【结果： 3】
+找不到输出文件：D:\code\java\software_test\repo\unzip\小福bbs\output\output9.txt (系统找不到指定的文件。)
 
-【时间：2019.11.18 at 14:29:49】
+【时间：2019.11.18 at 21:23:47】
 【指令：D:\code\java\software_test\repo\unzip\小福bbs\wordCount.exe -i D:/code/java/software_test/team_test_case/input10.txt -o D:/code/java/software_test/repo/unzip/小福bbs/output/output10.txt】
 【指令输出】
-【结果： 0】
+terminate called after throwing an instance of 'std::length_error'
+  what():  basic_string::_S_create
+【结果： 3】
+找不到输出文件：D:\code\java\software_test\repo\unzip\小福bbs\output\output10.txt (系统找不到指定的文件。)
 
-【时间：2019.11.18 at 14:29:52】
+【时间：2019.11.18 at 21:24:21】
 【指令：D:\code\java\software_test\repo\unzip\小福bbs\wordCount.exe -i D:/code/java/software_test/team_test_case/input11.txt -o D:/code/java/software_test/repo/unzip/小福bbs/output/output11.txt】
 【指令输出】
-【结果： -1073741819】
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
+【结果： 3】
 找不到输出文件：D:\code\java\software_test\repo\unzip\小福bbs\output\output11.txt (系统找不到指定的文件。)
 
-【时间：2019.11.18 at 14:29:53】
+【时间：2019.11.18 at 21:24:25】
 【指令：D:\code\java\software_test\repo\unzip\小福bbs\wordCount.exe -i D:/code/java/software_test/team_test_case/input12.txt -o D:/code/java/software_test/repo/unzip/小福bbs/output/output12.txt】
 【指令输出】
-【结果： 0】
+【结果： -1073740940】
+找不到输出文件：D:\code\java\software_test\repo\unzip\小福bbs\output\output12.txt (系统找不到指定的文件。)
 
-【时间：2019.11.18 at 14:29:53】
+【时间：2019.11.18 at 21:24:25】
 【指令：D:\code\java\software_test\repo\unzip\小福bbs\wordCount.exe -i D:/code/java/software_test/team_test_case/input13.txt -o D:/code/java/software_test/repo/unzip/小福bbs/output/output13.txt -m 2】
 【指令输出】
 【结果： 0】

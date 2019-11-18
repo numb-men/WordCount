@@ -1,36 +1,36 @@
 【开始编译未来之光 cpp】
-【时间：2019.11.18 at 14:16:44】
+【时间：2019.11.18 at 21:13:40】
 【指令：g++ -o D:/code/java/software_test/repo/unzip/未来之光/wordCount.exe D:\code\java\software_test\repo\unzip\未来之光\wordCount-master\wordCount\wordCount.cpp】
 【指令输出】
 【结果： 0】
 【编译成功未来之光 cpp】
 
 【开始编译十分宠爱 cpp】
-【时间：2019.11.18 at 14:16:50】
+【时间：2019.11.18 at 21:13:44】
 【指令：g++ -o D:/code/java/software_test/repo/unzip/十分宠爱/wordcount.exe D:\code\java\software_test\repo\unzip\十分宠爱\wordCount-master\wordcount\wordcount.cpp】
 【指令输出】
 【结果： 0】
 【编译成功十分宠爱 cpp】
 
 【开始编译computer-hunter cpp】
-【时间：2019.11.18 at 14:17:13】
-【指令：g++ -o D:/code/java/software_test/repo/unzip/computer-hunter/wordCount.exe D:\code\java\software_test\repo\unzip\computer-hunter\wordCount-master\CountLine.h D:\code\java\software_test\repo\unzip\computer-hunter\wordCount-master\h.h D:\code\java\software_test\repo\unzip\computer-hunter\wordCount-master\judgeword.h D:\code\java\software_test\repo\unzip\computer-hunter\wordCount-master\output.h D:\code\java\software_test\repo\unzip\computer-hunter\wordCount-master\solveInput.h D:\code\java\software_test\repo\unzip\computer-hunter\wordCount-master\sort_word.h D:\code\java\software_test\repo\unzip\computer-hunter\wordCount-master\SummaryChars.h D:\code\java\software_test\repo\unzip\computer-hunter\wordCount-master\wordCount.cpp D:\code\java\software_test\repo\unzip\computer-hunter\wordCount-master\word_group.h】
+【时间：2019.11.18 at 21:14:08】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/computer-hunter/wordCount.exe D:\code\java\software_test\repo\unzip\computer-hunter\wordCount-master\wordCount\CountLine.h D:\code\java\software_test\repo\unzip\computer-hunter\wordCount-master\wordCount\h.h D:\code\java\software_test\repo\unzip\computer-hunter\wordCount-master\wordCount\judgeword.h D:\code\java\software_test\repo\unzip\computer-hunter\wordCount-master\wordCount\output.h D:\code\java\software_test\repo\unzip\computer-hunter\wordCount-master\wordCount\solveInput.h D:\code\java\software_test\repo\unzip\computer-hunter\wordCount-master\wordCount\sort_word.h D:\code\java\software_test\repo\unzip\computer-hunter\wordCount-master\wordCount\SummaryChars.h D:\code\java\software_test\repo\unzip\computer-hunter\wordCount-master\wordCount\wordCount.cpp D:\code\java\software_test\repo\unzip\computer-hunter\wordCount-master\wordCount\word_group.h】
 【指令输出】
-D:\code\java\software_test\repo\unzip\computer-hunter\wordCount-master\h.h:1:9: warning: #pragma once in main file
+D:\code\java\software_test\repo\unzip\computer-hunter\wordCount-master\wordCount\h.h:1:9: warning: #pragma once in main file
  #pragma once
          ^~~~
 【结果： 0】
 【编译成功computer-hunter cpp】
 
 【开始编译碎阅创造营 cpp】
-【时间：2019.11.18 at 14:17:17】
+【时间：2019.11.18 at 21:14:11】
 【指令：g++ -o D:/code/java/software_test/repo/unzip/碎阅创造营/wordCount.exe D:\code\java\software_test\repo\unzip\碎阅创造营\wordCount-master\wordCount\wordCount.cpp】
 【指令输出】
 【结果： 0】
 【编译成功碎阅创造营 cpp】
 
 【开始编译热情 cpp】
-【时间：2019.11.18 at 14:17:33】
+【时间：2019.11.18 at 21:14:31】
 【指令：g++ -o D:/code/java/software_test/repo/unzip/热情/wordcount.exe D:\code\java\software_test\repo\unzip\热情\wordCount-master\wordcount\data_output.cpp D:\code\java\software_test\repo\unzip\热情\wordCount-master\wordcount\Method.cpp D:\code\java\software_test\repo\unzip\热情\wordCount-master\wordcount\Method.h D:\code\java\software_test\repo\unzip\热情\wordCount-master\wordcount\pch.cpp D:\code\java\software_test\repo\unzip\热情\wordCount-master\wordcount\pch.h D:\code\java\software_test\repo\unzip\热情\wordCount-master\wordcount\phrasetable.cpp D:\code\java\software_test\repo\unzip\热情\wordCount-master\wordcount\phrasetable.h D:\code\java\software_test\repo\unzip\热情\wordCount-master\wordcount\s.cpp D:\code\java\software_test\repo\unzip\热情\wordCount-master\wordcount\sentence.cpp D:\code\java\software_test\repo\unzip\热情\wordCount-master\wordcount\sentence.h D:\code\java\software_test\repo\unzip\热情\wordCount-master\wordcount\wordcount.cpp】
 【指令输出】
 D:\code\java\software_test\repo\unzip\热情\wordCount-master\wordcount\data_output.cpp: In function 'void Data_output(phrasetable)':
@@ -88,35 +88,56 @@ D:\code\java\software_test\repo\unzip\热情\wordCount-master\wordcount\sentence
 【编译成功热情 cpp】
 
 【开始编译灯塔 cpp】
-【时间：2019.11.18 at 14:17:38】
+【时间：2019.11.18 at 21:14:36】
 【指令：g++ -o D:/code/java/software_test/repo/unzip/灯塔/wordCount.exe D:\code\java\software_test\repo\unzip\灯塔\wordCount-master\wordCount\wordCount.cpp】
 【指令输出】
 【结果： 0】
 【编译成功灯塔 cpp】
 
 【开始编译T-MAX-FZU cpp】
-【时间：2019.11.18 at 14:17:42】
+【时间：2019.11.18 at 21:14:40】
 【指令：g++ -o D:/code/java/software_test/repo/unzip/T-MAX-FZU/wordCount.exe D:\code\java\software_test\repo\unzip\T-MAX-FZU\wordCount-master\wordCount.cpp】
 【指令输出】
 【结果： 0】
 【编译成功T-MAX-FZU cpp】
 
 【开始编译研途 java】
-【时间：2019.11.18 at 14:17:44】
+【时间：2019.11.18 at 21:14:42】
 【指令：javac -d D:/code/java/software_test/repo/unzip/研途/output_classes -encoding utf-8 -nowarn D:/code/java/software_test/repo/unzip/研途/wordCount-master/wordCount/*.java】
 【指令输出】
 【结果： 0】
 【编译成功研途 java】
 
 【开始编译同行 cpp】
-【时间：2019.11.18 at 14:18:04】
-【指令：g++ -o D:/code/java/software_test/repo/unzip/同行/wordCount.exe D:\code\java\software_test\repo\unzip\同行\wordCount-master\characters1.h D:\code\java\software_test\repo\unzip\同行\wordCount-master\count_line.h D:\code\java\software_test\repo\unzip\同行\wordCount-master\wordCount.cpp D:\code\java\software_test\repo\unzip\同行\wordCount-master\wordcount.h】
+【时间：2019.11.18 at 21:14:48】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/同行/WordCount.exe D:\code\java\software_test\repo\unzip\同行\wordCount-master\stdafx.cpp D:\code\java\software_test\repo\unzip\同行\wordCount-master\stdafx.h D:\code\java\software_test\repo\unzip\同行\wordCount-master\WordCount.cpp】
 【指令输出】
-【结果： 0】
+D:\code\java\software_test\repo\unzip\同行\wordCount-master\stdafx.h:1:9: warning: #pragma once in main file
+ #pragma once
+         ^~~~
+D:\code\java\software_test\repo\unzip\同行\wordCount-master\WordCount.cpp:2:33: warning: ISO C++11 requires whitespace after the macro name
+ #define _CRT_SECURE_NO_DEPRECATE；
+                                 ^
+D:\code\java\software_test\repo\unzip\同行\wordCount-master\WordCount.cpp:3:32: warning: ISO C++11 requires whitespace after the macro name
+ #define _CRT_SECURE_NO_WARNINGS；
+                                ^
+D:\code\java\software_test\repo\unzip\同行\wordCount-master\WordCount.cpp: In function 'void wordsta(FILE*, sq, sq*)':
+D:\code\java\software_test\repo\unzip\同行\wordCount-master\WordCount.cpp:52:9: error: 'strcmp' was not declared in this scope
+     if (strcmp(t_word.danci, word[i].danci) == 0)//如果有单词相同
+         ^~~~~~
+D:\code\java\software_test\repo\unzip\同行\wordCount-master\WordCount.cpp:52:9: note: suggested alternative: 'strtol'
+     if (strcmp(t_word.danci, word[i].danci) == 0)//如果有单词相同
+         ^~~~~~
+         strtol
+D:\code\java\software_test\repo\unzip\同行\wordCount-master\WordCount.cpp: At global scope:
+D:\code\java\software_test\repo\unzip\同行\wordCount-master\WordCount.cpp:110:32: error: '::main' must return 'int'
+ void main(int arg, char* argv[])
+                                ^
+【结果： 1】
 【编译成功同行 cpp】
 
 【开始编译小福bbs cpp】
-【时间：2019.11.18 at 14:18:08】
+【时间：2019.11.18 at 21:14:51】
 【指令：g++ -o D:/code/java/software_test/repo/unzip/小福bbs/wordCount.exe D:\code\java\software_test\repo\unzip\小福bbs\wordCount-master\wordCount\wordCount.cpp】
 【指令输出】
 【结果： 0】
