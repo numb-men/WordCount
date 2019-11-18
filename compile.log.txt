@@ -1,0 +1,124 @@
+【开始编译未来之光 cpp】
+【时间：2019.11.18 at 14:16:44】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/未来之光/wordCount.exe D:\code\java\software_test\repo\unzip\未来之光\wordCount-master\wordCount\wordCount.cpp】
+【指令输出】
+【结果： 0】
+【编译成功未来之光 cpp】
+
+【开始编译十分宠爱 cpp】
+【时间：2019.11.18 at 14:16:50】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/十分宠爱/wordcount.exe D:\code\java\software_test\repo\unzip\十分宠爱\wordCount-master\wordcount\wordcount.cpp】
+【指令输出】
+【结果： 0】
+【编译成功十分宠爱 cpp】
+
+【开始编译computer-hunter cpp】
+【时间：2019.11.18 at 14:17:13】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/computer-hunter/wordCount.exe D:\code\java\software_test\repo\unzip\computer-hunter\wordCount-master\CountLine.h D:\code\java\software_test\repo\unzip\computer-hunter\wordCount-master\h.h D:\code\java\software_test\repo\unzip\computer-hunter\wordCount-master\judgeword.h D:\code\java\software_test\repo\unzip\computer-hunter\wordCount-master\output.h D:\code\java\software_test\repo\unzip\computer-hunter\wordCount-master\solveInput.h D:\code\java\software_test\repo\unzip\computer-hunter\wordCount-master\sort_word.h D:\code\java\software_test\repo\unzip\computer-hunter\wordCount-master\SummaryChars.h D:\code\java\software_test\repo\unzip\computer-hunter\wordCount-master\wordCount.cpp D:\code\java\software_test\repo\unzip\computer-hunter\wordCount-master\word_group.h】
+【指令输出】
+D:\code\java\software_test\repo\unzip\computer-hunter\wordCount-master\h.h:1:9: warning: #pragma once in main file
+ #pragma once
+         ^~~~
+【结果： 0】
+【编译成功computer-hunter cpp】
+
+【开始编译碎阅创造营 cpp】
+【时间：2019.11.18 at 14:17:17】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/碎阅创造营/wordCount.exe D:\code\java\software_test\repo\unzip\碎阅创造营\wordCount-master\wordCount\wordCount.cpp】
+【指令输出】
+【结果： 0】
+【编译成功碎阅创造营 cpp】
+
+【开始编译热情 cpp】
+【时间：2019.11.18 at 14:17:33】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/热情/wordcount.exe D:\code\java\software_test\repo\unzip\热情\wordCount-master\wordcount\data_output.cpp D:\code\java\software_test\repo\unzip\热情\wordCount-master\wordcount\Method.cpp D:\code\java\software_test\repo\unzip\热情\wordCount-master\wordcount\Method.h D:\code\java\software_test\repo\unzip\热情\wordCount-master\wordcount\pch.cpp D:\code\java\software_test\repo\unzip\热情\wordCount-master\wordcount\pch.h D:\code\java\software_test\repo\unzip\热情\wordCount-master\wordcount\phrasetable.cpp D:\code\java\software_test\repo\unzip\热情\wordCount-master\wordcount\phrasetable.h D:\code\java\software_test\repo\unzip\热情\wordCount-master\wordcount\s.cpp D:\code\java\software_test\repo\unzip\热情\wordCount-master\wordcount\sentence.cpp D:\code\java\software_test\repo\unzip\热情\wordCount-master\wordcount\sentence.h D:\code\java\software_test\repo\unzip\热情\wordCount-master\wordcount\wordcount.cpp】
+【指令输出】
+D:\code\java\software_test\repo\unzip\热情\wordCount-master\wordcount\data_output.cpp: In function 'void Data_output(phrasetable)':
+D:\code\java\software_test\repo\unzip\热情\wordCount-master\wordcount\data_output.cpp:5:16: error: 'n' was not declared in this scope
+  int n_count = n;
+                ^
+D:\code\java\software_test\repo\unzip\热情\wordCount-master\wordcount\data_output.cpp:7:2: error: 'cout' was not declared in this scope
+  cout<<"characters: "<<count_char<<endl;
+  ^~~~
+D:\code\java\software_test\repo\unzip\热情\wordCount-master\wordcount\data_output.cpp:7:2: note: suggested alternative: 'n_count'
+  cout<<"characters: "<<count_char<<endl;
+  ^~~~
+  n_count
+D:\code\java\software_test\repo\unzip\热情\wordCount-master\wordcount\data_output.cpp:7:24: error: 'count_char' was not declared in this scope
+  cout<<"characters: "<<count_char<<endl;
+                        ^~~~~~~~~~
+D:\code\java\software_test\repo\unzip\热情\wordCount-master\wordcount\data_output.cpp:7:36: error: 'endl' was not declared in this scope
+  cout<<"characters: "<<count_char<<endl;
+                                    ^~~~
+D:\code\java\software_test\repo\unzip\热情\wordCount-master\wordcount\data_output.cpp:7:36: note: suggested alternative: 'enum'
+  cout<<"characters: "<<count_char<<endl;
+                                    ^~~~
+                                    enum
+D:\code\java\software_test\repo\unzip\热情\wordCount-master\wordcount\data_output.cpp:8:19: error: 'count_words' was not declared in this scope
+  cout<<"words: "<<count_words<<endl;
+                   ^~~~~~~~~~~
+D:\code\java\software_test\repo\unzip\热情\wordCount-master\wordcount\data_output.cpp:9:19: error: 'count_lines' was not declared in this scope
+  cout<<"lines: "<<count_lines<<endl;
+                   ^~~~~~~~~~~
+D:\code\java\software_test\repo\unzip\热情\wordCount-master\wordcount\Method.cpp: In function 'void get_cmd(int, char**)':
+D:\code\java\software_test\repo\unzip\热情\wordCount-master\wordcount\Method.cpp:34:4: error: 'strcpy_s' was not declared in this scope
+    strcpy_s(InputName, argv[++i]);
+    ^~~~~~~~
+D:\code\java\software_test\repo\unzip\热情\wordCount-master\wordcount\Method.cpp:34:4: note: suggested alternative: 'wcscpy_s'
+    strcpy_s(InputName, argv[++i]);
+    ^~~~~~~~
+    wcscpy_s
+D:\code\java\software_test\repo\unzip\热情\wordCount-master\wordcount\Method.cpp:38:4: error: 'strcpy_s' was not declared in this scope
+    strcpy_s(OutputName, argv[++i]);
+    ^~~~~~~~
+D:\code\java\software_test\repo\unzip\热情\wordCount-master\wordcount\Method.cpp:38:4: note: suggested alternative: 'wcscpy_s'
+    strcpy_s(OutputName, argv[++i]);
+    ^~~~~~~~
+    wcscpy_s
+D:\code\java\software_test\repo\unzip\热情\wordCount-master\wordcount\Method.h:1:9: warning: #pragma once in main file
+ #pragma once
+         ^~~~
+D:\code\java\software_test\repo\unzip\热情\wordCount-master\wordcount\phrasetable.h:1:9: warning: #pragma once in main file
+ #pragma once
+         ^~~~
+D:\code\java\software_test\repo\unzip\热情\wordCount-master\wordcount\sentence.h:1:9: warning: #pragma once in main file
+ #pragma once
+         ^~~~
+【结果： 1】
+【编译成功热情 cpp】
+
+【开始编译灯塔 cpp】
+【时间：2019.11.18 at 14:17:38】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/灯塔/wordCount.exe D:\code\java\software_test\repo\unzip\灯塔\wordCount-master\wordCount\wordCount.cpp】
+【指令输出】
+【结果： 0】
+【编译成功灯塔 cpp】
+
+【开始编译T-MAX-FZU cpp】
+【时间：2019.11.18 at 14:17:42】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/T-MAX-FZU/wordCount.exe D:\code\java\software_test\repo\unzip\T-MAX-FZU\wordCount-master\wordCount.cpp】
+【指令输出】
+【结果： 0】
+【编译成功T-MAX-FZU cpp】
+
+【开始编译研途 java】
+【时间：2019.11.18 at 14:17:44】
+【指令：javac -d D:/code/java/software_test/repo/unzip/研途/output_classes -encoding utf-8 -nowarn D:/code/java/software_test/repo/unzip/研途/wordCount-master/wordCount/*.java】
+【指令输出】
+【结果： 0】
+【编译成功研途 java】
+
+【开始编译同行 cpp】
+【时间：2019.11.18 at 14:18:04】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/同行/wordCount.exe D:\code\java\software_test\repo\unzip\同行\wordCount-master\characters1.h D:\code\java\software_test\repo\unzip\同行\wordCount-master\count_line.h D:\code\java\software_test\repo\unzip\同行\wordCount-master\wordCount.cpp D:\code\java\software_test\repo\unzip\同行\wordCount-master\wordcount.h】
+【指令输出】
+【结果： 0】
+【编译成功同行 cpp】
+
+【开始编译小福bbs cpp】
+【时间：2019.11.18 at 14:18:08】
+【指令：g++ -o D:/code/java/software_test/repo/unzip/小福bbs/wordCount.exe D:\code\java\software_test\repo\unzip\小福bbs\wordCount-master\wordCount\wordCount.cpp】
+【指令输出】
+【结果： 0】
+【编译成功小福bbs cpp】
+

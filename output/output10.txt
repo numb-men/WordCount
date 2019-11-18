@@ -1,0 +1,11 @@
+characters: 60
+words: 8
+lines: 3
+<boom>: 1
+<duud>: 1
+<monday>: 1
+<okay1>: 1
+<okay3>: 1
+<okay4oka>: 1
+<okerrrr>: 1
+<ppop>: 1

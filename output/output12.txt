@@ -1,0 +1,5 @@
+characters: 35
+words: 2
+lines: 7
+<abcf>: 1
+<abef>: 1

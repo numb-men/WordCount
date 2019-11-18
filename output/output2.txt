@@ -1,0 +1,10 @@
+characters: 107
+words: 12
+lines: 14
+<file>: 4
+<abcd>: 3
+<ancda>: 1
+<windos>: 1
+<windos98>: 1
+<windows2000>: 1
+<windows95>: 1

@@ -1,0 +1,14 @@
+java WordCount -i D:\code\java\WordCount\input\input1.txt -o D:\code\java\WordCount\output\output1.txt
+java WordCount -i D:\code\java\WordCount\input\input2.txt -o D:\code\java\WordCount\output\output2.txt
+java WordCount -i D:\code\java\WordCount\input\input3.txt -o D:\code\java\WordCount\output\output3.txt -m 3 -n 20
+java WordCount -i D:\code\java\WordCount\input\input4.txt -o D:\code\java\WordCount\output\output4.txt
+java WordCount -i D:\code\java\WordCount\input\input5.txt -o D:\code\java\WordCount\output\output5.txt -n 15
+java WordCount -i D:\code\java\WordCount\input\input6.txt -o D:\code\java\WordCount\output\output6.txt -m 2
+java WordCount -i D:\code\java\WordCount\input\input7.txt -o D:\code\java\WordCount\output\output7.txt
+java WordCount -i D:\code\java\WordCount\input\input8.txt -o D:\code\java\WordCount\output\output8.txt
+java WordCount -i D:\code\java\WordCount\input\input9.txt -o D:\code\java\WordCount\output\output9.txt
+java WordCount -i D:\code\java\WordCount\input\input10.txt -o D:\code\java\WordCount\output\output10.txt
+java WordCount -i D:\code\java\WordCount\input\input11.txt -o D:\code\java\WordCount\output\output11.txt
+java WordCount -i D:\code\java\WordCount\input\input12.txt -o D:\code\java\WordCount\output\output12.txt
+java WordCount -i D:\code\java\WordCount\input\input13.txt -o D:\code\java\WordCount\output\output13.txt -m 2
+java WordCount -i D:\code\java\WordCount\input\input13.txt -o D:\code\java\WordCount\output\output13.txt -m 3

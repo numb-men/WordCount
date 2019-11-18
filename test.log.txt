@@ -1,0 +1,1641 @@
+
+
+【开始测试 未来之光: cpp: D:\code\java\software_test\repo\unzip\未来之光\wordCount.exe】
+【时间：2019.11.18 at 14:27:42】
+【指令：D:\code\java\software_test\repo\unzip\未来之光\wordCount.exe -i D:/code/java/software_test/team_test_case/input1.txt -o D:/code/java/software_test/repo/unzip/未来之光/output/output1.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:27:42】
+【指令：D:\code\java\software_test\repo\unzip\未来之光\wordCount.exe -i D:/code/java/software_test/team_test_case/input2.txt -o D:/code/java/software_test/repo/unzip/未来之光/output/output2.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:27:43】
+【指令：D:\code\java\software_test\repo\unzip\未来之光\wordCount.exe -i D:/code/java/software_test/team_test_case/input3.txt -o D:/code/java/software_test/repo/unzip/未来之光/output/output3.txt -m 3 -n 20】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:27:43】
+【指令：D:\code\java\software_test\repo\unzip\未来之光\wordCount.exe -i D:/code/java/software_test/team_test_case/input4.txt -o D:/code/java/software_test/repo/unzip/未来之光/output/output4.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:27:44】
+【指令：D:\code\java\software_test\repo\unzip\未来之光\wordCount.exe -i D:/code/java/software_test/team_test_case/input5.txt -o D:/code/java/software_test/repo/unzip/未来之光/output/output5.txt -n 15】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:27:44】
+【指令：D:\code\java\software_test\repo\unzip\未来之光\wordCount.exe -i D:/code/java/software_test/team_test_case/input6.txt -o D:/code/java/software_test/repo/unzip/未来之光/output/output6.txt -m 2】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:27:45】
+【指令：D:\code\java\software_test\repo\unzip\未来之光\wordCount.exe -i D:/code/java/software_test/team_test_case/input7.txt -o D:/code/java/software_test/repo/unzip/未来之光/output/output7.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:27:45】
+【指令：D:\code\java\software_test\repo\unzip\未来之光\wordCount.exe -i D:/code/java/software_test/team_test_case/input8.txt -o D:/code/java/software_test/repo/unzip/未来之光/output/output8.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:27:45】
+【指令：D:\code\java\software_test\repo\unzip\未来之光\wordCount.exe -i D:/code/java/software_test/team_test_case/input9.txt -o D:/code/java/software_test/repo/unzip/未来之光/output/output9.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:27:46】
+【指令：D:\code\java\software_test\repo\unzip\未来之光\wordCount.exe -i D:/code/java/software_test/team_test_case/input10.txt -o D:/code/java/software_test/repo/unzip/未来之光/output/output10.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:27:46】
+【指令：D:\code\java\software_test\repo\unzip\未来之光\wordCount.exe -i D:/code/java/software_test/team_test_case/input11.txt -o D:/code/java/software_test/repo/unzip/未来之光/output/output11.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:27:47】
+【指令：D:\code\java\software_test\repo\unzip\未来之光\wordCount.exe -i D:/code/java/software_test/team_test_case/input12.txt -o D:/code/java/software_test/repo/unzip/未来之光/output/output12.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:27:47】
+【指令：D:\code\java\software_test\repo\unzip\未来之光\wordCount.exe -i D:/code/java/software_test/team_test_case/input13.txt -o D:/code/java/software_test/repo/unzip/未来之光/output/output13.txt -m 2】
+【指令输出】
+【结果： 0】
+
+
+【开始测试 computer-hunter: cpp: D:\code\java\software_test\repo\unzip\computer-hunter\wordCount.exe】
+【时间：2019.11.18 at 14:27:53】
+【指令：D:\code\java\software_test\repo\unzip\computer-hunter\wordCount.exe -i D:/code/java/software_test/team_test_case/input1.txt -o D:/code/java/software_test/repo/unzip/computer-hunter/output/output1.txt】
+【指令输出】
+【结果： -1073741819】
+找不到输出文件：D:\code\java\software_test\repo\unzip\computer-hunter\output\output1.txt (系统找不到指定的文件。)
+
+【时间：2019.11.18 at 14:27:57】
+【指令：D:\code\java\software_test\repo\unzip\computer-hunter\wordCount.exe -i D:/code/java/software_test/team_test_case/input2.txt -o D:/code/java/software_test/repo/unzip/computer-hunter/output/output2.txt】
+【指令输出】
+【结果： -1073741819】
+找不到输出文件：D:\code\java\software_test\repo\unzip\computer-hunter\output\output2.txt (系统找不到指定的文件。)
+
+【时间：2019.11.18 at 14:28:02】
+【指令：D:\code\java\software_test\repo\unzip\computer-hunter\wordCount.exe -i D:/code/java/software_test/team_test_case/input3.txt -o D:/code/java/software_test/repo/unzip/computer-hunter/output/output3.txt -m 3 -n 20】
+【指令输出】
+【结果： -1073741819】
+找不到输出文件：D:\code\java\software_test\repo\unzip\computer-hunter\output\output3.txt (系统找不到指定的文件。)
+
+【时间：2019.11.18 at 14:28:06】
+【指令：D:\code\java\software_test\repo\unzip\computer-hunter\wordCount.exe -i D:/code/java/software_test/team_test_case/input4.txt -o D:/code/java/software_test/repo/unzip/computer-hunter/output/output4.txt】
+【指令输出】
+【结果： -1073741819】
+找不到输出文件：D:\code\java\software_test\repo\unzip\computer-hunter\output\output4.txt (系统找不到指定的文件。)
+
+【时间：2019.11.18 at 14:28:10】
+【指令：D:\code\java\software_test\repo\unzip\computer-hunter\wordCount.exe -i D:/code/java/software_test/team_test_case/input5.txt -o D:/code/java/software_test/repo/unzip/computer-hunter/output/output5.txt -n 15】
+【指令输出】
+【结果： -1073741819】
+找不到输出文件：D:\code\java\software_test\repo\unzip\computer-hunter\output\output5.txt (系统找不到指定的文件。)
+
+【时间：2019.11.18 at 14:28:14】
+【指令：D:\code\java\software_test\repo\unzip\computer-hunter\wordCount.exe -i D:/code/java/software_test/team_test_case/input6.txt -o D:/code/java/software_test/repo/unzip/computer-hunter/output/output6.txt -m 2】
+【指令输出】
+【结果： -1073741819】
+找不到输出文件：D:\code\java\software_test\repo\unzip\computer-hunter\output\output6.txt (系统找不到指定的文件。)
+
+【时间：2019.11.18 at 14:28:19】
+【指令：D:\code\java\software_test\repo\unzip\computer-hunter\wordCount.exe -i D:/code/java/software_test/team_test_case/input7.txt -o D:/code/java/software_test/repo/unzip/computer-hunter/output/output7.txt】
+【指令输出】
+【结果： -1073741819】
+找不到输出文件：D:\code\java\software_test\repo\unzip\computer-hunter\output\output7.txt (系统找不到指定的文件。)
+
+【时间：2019.11.18 at 14:28:23】
+【指令：D:\code\java\software_test\repo\unzip\computer-hunter\wordCount.exe -i D:/code/java/software_test/team_test_case/input8.txt -o D:/code/java/software_test/repo/unzip/computer-hunter/output/output8.txt】
+【指令输出】
+【结果： -1073741819】
+找不到输出文件：D:\code\java\software_test\repo\unzip\computer-hunter\output\output8.txt (系统找不到指定的文件。)
+
+【时间：2019.11.18 at 14:28:27】
+【指令：D:\code\java\software_test\repo\unzip\computer-hunter\wordCount.exe -i D:/code/java/software_test/team_test_case/input9.txt -o D:/code/java/software_test/repo/unzip/computer-hunter/output/output9.txt】
+【指令输出】
+【结果： -1073741819】
+找不到输出文件：D:\code\java\software_test\repo\unzip\computer-hunter\output\output9.txt (系统找不到指定的文件。)
+
+【时间：2019.11.18 at 14:28:31】
+【指令：D:\code\java\software_test\repo\unzip\computer-hunter\wordCount.exe -i D:/code/java/software_test/team_test_case/input10.txt -o D:/code/java/software_test/repo/unzip/computer-hunter/output/output10.txt】
+【指令输出】
+【结果： -1073741819】
+找不到输出文件：D:\code\java\software_test\repo\unzip\computer-hunter\output\output10.txt (系统找不到指定的文件。)
+
+【时间：2019.11.18 at 14:28:35】
+【指令：D:\code\java\software_test\repo\unzip\computer-hunter\wordCount.exe -i D:/code/java/software_test/team_test_case/input11.txt -o D:/code/java/software_test/repo/unzip/computer-hunter/output/output11.txt】
+【指令输出】
+【结果： -1073741819】
+找不到输出文件：D:\code\java\software_test\repo\unzip\computer-hunter\output\output11.txt (系统找不到指定的文件。)
+
+【时间：2019.11.18 at 14:28:40】
+【指令：D:\code\java\software_test\repo\unzip\computer-hunter\wordCount.exe -i D:/code/java/software_test/team_test_case/input12.txt -o D:/code/java/software_test/repo/unzip/computer-hunter/output/output12.txt】
+【指令输出】
+【结果： -1073741819】
+找不到输出文件：D:\code\java\software_test\repo\unzip\computer-hunter\output\output12.txt (系统找不到指定的文件。)
+
+【时间：2019.11.18 at 14:28:45】
+【指令：D:\code\java\software_test\repo\unzip\computer-hunter\wordCount.exe -i D:/code/java/software_test/team_test_case/input13.txt -o D:/code/java/software_test/repo/unzip/computer-hunter/output/output13.txt -m 2】
+【指令输出】
+【结果： -1073741819】
+找不到输出文件：D:\code\java\software_test\repo\unzip\computer-hunter\output\output13.txt (系统找不到指定的文件。)
+
+
+【开始测试 碎阅创造营: cpp: D:\code\java\software_test\repo\unzip\碎阅创造营\wordCount.exe】
+【时间：2019.11.18 at 14:28:46】
+【指令：D:\code\java\software_test\repo\unzip\碎阅创造营\wordCount.exe -i D:/code/java/software_test/team_test_case/input1.txt -o D:/code/java/software_test/repo/unzip/碎阅创造营/output/output1.txt】
+【指令输出】
+
+【结果： 0】
+
+【时间：2019.11.18 at 14:28:47】
+【指令：D:\code\java\software_test\repo\unzip\碎阅创造营\wordCount.exe -i D:/code/java/software_test/team_test_case/input2.txt -o D:/code/java/software_test/repo/unzip/碎阅创造营/output/output2.txt】
+【指令输出】
+
+【结果： 0】
+
+【时间：2019.11.18 at 14:28:47】
+【指令：D:\code\java\software_test\repo\unzip\碎阅创造营\wordCount.exe -i D:/code/java/software_test/team_test_case/input3.txt -o D:/code/java/software_test/repo/unzip/碎阅创造营/output/output3.txt -m 3 -n 20】
+【指令输出】
+
+【结果： 0】
+
+【时间：2019.11.18 at 14:28:48】
+【指令：D:\code\java\software_test\repo\unzip\碎阅创造营\wordCount.exe -i D:/code/java/software_test/team_test_case/input4.txt -o D:/code/java/software_test/repo/unzip/碎阅创造营/output/output4.txt】
+【指令输出】
+
+【结果： 0】
+
+【时间：2019.11.18 at 14:28:48】
+【指令：D:\code\java\software_test\repo\unzip\碎阅创造营\wordCount.exe -i D:/code/java/software_test/team_test_case/input5.txt -o D:/code/java/software_test/repo/unzip/碎阅创造营/output/output5.txt -n 15】
+【指令输出】
+
+【结果： 0】
+
+【时间：2019.11.18 at 14:28:48】
+【指令：D:\code\java\software_test\repo\unzip\碎阅创造营\wordCount.exe -i D:/code/java/software_test/team_test_case/input6.txt -o D:/code/java/software_test/repo/unzip/碎阅创造营/output/output6.txt -m 2】
+【指令输出】
+
+【结果： 0】
+
+【时间：2019.11.18 at 14:28:49】
+【指令：D:\code\java\software_test\repo\unzip\碎阅创造营\wordCount.exe -i D:/code/java/software_test/team_test_case/input7.txt -o D:/code/java/software_test/repo/unzip/碎阅创造营/output/output7.txt】
+【指令输出】
+
+【结果： 0】
+
+【时间：2019.11.18 at 14:28:49】
+【指令：D:\code\java\software_test\repo\unzip\碎阅创造营\wordCount.exe -i D:/code/java/software_test/team_test_case/input8.txt -o D:/code/java/software_test/repo/unzip/碎阅创造营/output/output8.txt】
+【指令输出】
+
+【结果： 0】
+
+【时间：2019.11.18 at 14:28:49】
+【指令：D:\code\java\software_test\repo\unzip\碎阅创造营\wordCount.exe -i D:/code/java/software_test/team_test_case/input9.txt -o D:/code/java/software_test/repo/unzip/碎阅创造营/output/output9.txt】
+【指令输出】
+
+【结果： 0】
+
+【时间：2019.11.18 at 14:28:50】
+【指令：D:\code\java\software_test\repo\unzip\碎阅创造营\wordCount.exe -i D:/code/java/software_test/team_test_case/input10.txt -o D:/code/java/software_test/repo/unzip/碎阅创造营/output/output10.txt】
+【指令输出】
+
+【结果： 0】
+
+【时间：2019.11.18 at 14:28:50】
+【指令：D:\code\java\software_test\repo\unzip\碎阅创造营\wordCount.exe -i D:/code/java/software_test/team_test_case/input11.txt -o D:/code/java/software_test/repo/unzip/碎阅创造营/output/output11.txt】
+【指令输出】
+
+【结果： 0】
+
+【时间：2019.11.18 at 14:28:51】
+【指令：D:\code\java\software_test\repo\unzip\碎阅创造营\wordCount.exe -i D:/code/java/software_test/team_test_case/input12.txt -o D:/code/java/software_test/repo/unzip/碎阅创造营/output/output12.txt】
+【指令输出】
+
+【结果： 0】
+
+【时间：2019.11.18 at 14:28:51】
+【指令：D:\code\java\software_test\repo\unzip\碎阅创造营\wordCount.exe -i D:/code/java/software_test/team_test_case/input13.txt -o D:/code/java/software_test/repo/unzip/碎阅创造营/output/output13.txt -m 2】
+【指令输出】
+
+【结果： 0】
+
+
+【开始测试 热情: cpp: D:\code\java\software_test\repo\unzip\热情\wordcount.exe】找不到输出文件：Cannot run program "D:\code\java\software_test\repo\unzip\热情\wordcount.exe": CreateProcess error=216, 该版本的 %1 与你运行的 Windows 版本不兼容。请查看计算机的系统信息，然后联系软件发布者。
+找不到输出文件：Cannot run program "D:\code\java\software_test\repo\unzip\热情\wordcount.exe": CreateProcess error=216, 该版本的 %1 与你运行的 Windows 版本不兼容。请查看计算机的系统信息，然后联系软件发布者。
+找不到输出文件：Cannot run program "D:\code\java\software_test\repo\unzip\热情\wordcount.exe": CreateProcess error=216, 该版本的 %1 与你运行的 Windows 版本不兼容。请查看计算机的系统信息，然后联系软件发布者。
+找不到输出文件：Cannot run program "D:\code\java\software_test\repo\unzip\热情\wordcount.exe": CreateProcess error=216, 该版本的 %1 与你运行的 Windows 版本不兼容。请查看计算机的系统信息，然后联系软件发布者。
+找不到输出文件：Cannot run program "D:\code\java\software_test\repo\unzip\热情\wordcount.exe": CreateProcess error=216, 该版本的 %1 与你运行的 Windows 版本不兼容。请查看计算机的系统信息，然后联系软件发布者。
+找不到输出文件：Cannot run program "D:\code\java\software_test\repo\unzip\热情\wordcount.exe": CreateProcess error=216, 该版本的 %1 与你运行的 Windows 版本不兼容。请查看计算机的系统信息，然后联系软件发布者。
+找不到输出文件：Cannot run program "D:\code\java\software_test\repo\unzip\热情\wordcount.exe": CreateProcess error=216, 该版本的 %1 与你运行的 Windows 版本不兼容。请查看计算机的系统信息，然后联系软件发布者。
+找不到输出文件：Cannot run program "D:\code\java\software_test\repo\unzip\热情\wordcount.exe": CreateProcess error=216, 该版本的 %1 与你运行的 Windows 版本不兼容。请查看计算机的系统信息，然后联系软件发布者。
+找不到输出文件：Cannot run program "D:\code\java\software_test\repo\unzip\热情\wordcount.exe": CreateProcess error=216, 该版本的 %1 与你运行的 Windows 版本不兼容。请查看计算机的系统信息，然后联系软件发布者。
+找不到输出文件：Cannot run program "D:\code\java\software_test\repo\unzip\热情\wordcount.exe": CreateProcess error=216, 该版本的 %1 与你运行的 Windows 版本不兼容。请查看计算机的系统信息，然后联系软件发布者。
+找不到输出文件：Cannot run program "D:\code\java\software_test\repo\unzip\热情\wordcount.exe": CreateProcess error=216, 该版本的 %1 与你运行的 Windows 版本不兼容。请查看计算机的系统信息，然后联系软件发布者。
+找不到输出文件：Cannot run program "D:\code\java\software_test\repo\unzip\热情\wordcount.exe": CreateProcess error=216, 该版本的 %1 与你运行的 Windows 版本不兼容。请查看计算机的系统信息，然后联系软件发布者。
+找不到输出文件：Cannot run program "D:\code\java\software_test\repo\unzip\热情\wordcount.exe": CreateProcess error=216, 该版本的 %1 与你运行的 Windows 版本不兼容。请查看计算机的系统信息，然后联系软件发布者。
+
+
+【开始测试 灯塔: cpp: D:\code\java\software_test\repo\unzip\灯塔\wordCount.exe】
+【时间：2019.11.18 at 14:28:52】
+【指令：D:\code\java\software_test\repo\unzip\灯塔\wordCount.exe -i D:/code/java/software_test/team_test_case/input1.txt -o D:/code/java/software_test/repo/unzip/灯塔/output/output1.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:28:53】
+【指令：D:\code\java\software_test\repo\unzip\灯塔\wordCount.exe -i D:/code/java/software_test/team_test_case/input2.txt -o D:/code/java/software_test/repo/unzip/灯塔/output/output2.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:28:53】
+【指令：D:\code\java\software_test\repo\unzip\灯塔\wordCount.exe -i D:/code/java/software_test/team_test_case/input3.txt -o D:/code/java/software_test/repo/unzip/灯塔/output/output3.txt -m 3 -n 20】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:28:53】
+【指令：D:\code\java\software_test\repo\unzip\灯塔\wordCount.exe -i D:/code/java/software_test/team_test_case/input4.txt -o D:/code/java/software_test/repo/unzip/灯塔/output/output4.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:28:54】
+【指令：D:\code\java\software_test\repo\unzip\灯塔\wordCount.exe -i D:/code/java/software_test/team_test_case/input5.txt -o D:/code/java/software_test/repo/unzip/灯塔/output/output5.txt -n 15】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:28:54】
+【指令：D:\code\java\software_test\repo\unzip\灯塔\wordCount.exe -i D:/code/java/software_test/team_test_case/input6.txt -o D:/code/java/software_test/repo/unzip/灯塔/output/output6.txt -m 2】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:28:54】
+【指令：D:\code\java\software_test\repo\unzip\灯塔\wordCount.exe -i D:/code/java/software_test/team_test_case/input7.txt -o D:/code/java/software_test/repo/unzip/灯塔/output/output7.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:28:55】
+【指令：D:\code\java\software_test\repo\unzip\灯塔\wordCount.exe -i D:/code/java/software_test/team_test_case/input8.txt -o D:/code/java/software_test/repo/unzip/灯塔/output/output8.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:28:55】
+【指令：D:\code\java\software_test\repo\unzip\灯塔\wordCount.exe -i D:/code/java/software_test/team_test_case/input9.txt -o D:/code/java/software_test/repo/unzip/灯塔/output/output9.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:28:56】
+【指令：D:\code\java\software_test\repo\unzip\灯塔\wordCount.exe -i D:/code/java/software_test/team_test_case/input10.txt -o D:/code/java/software_test/repo/unzip/灯塔/output/output10.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:28:56】
+【指令：D:\code\java\software_test\repo\unzip\灯塔\wordCount.exe -i D:/code/java/software_test/team_test_case/input11.txt -o D:/code/java/software_test/repo/unzip/灯塔/output/output11.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:28:56】
+【指令：D:\code\java\software_test\repo\unzip\灯塔\wordCount.exe -i D:/code/java/software_test/team_test_case/input12.txt -o D:/code/java/software_test/repo/unzip/灯塔/output/output12.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:28:57】
+【指令：D:\code\java\software_test\repo\unzip\灯塔\wordCount.exe -i D:/code/java/software_test/team_test_case/input13.txt -o D:/code/java/software_test/repo/unzip/灯塔/output/output13.txt -m 2】
+【指令输出】
+【结果： 0】
+
+
+【开始测试 T-MAX-FZU: cpp: D:\code\java\software_test\repo\unzip\T-MAX-FZU\wordCount.exe】
+【时间：2019.11.18 at 14:28:57】
+【指令：D:\code\java\software_test\repo\unzip\T-MAX-FZU\wordCount.exe -i D:/code/java/software_test/team_test_case/input1.txt -o D:/code/java/software_test/repo/unzip/T-MAX-FZU/output/output1.txt】
+【指令输出】
+<monday tuesday wednesday>: 1
+<tuesday wednesday thursday>: 1
+<wednesday thursday friday>: 1
+【结果： 0】
+
+【时间：2019.11.18 at 14:29:02】
+【指令：D:\code\java\software_test\repo\unzip\T-MAX-FZU\wordCount.exe -i D:/code/java/software_test/team_test_case/input2.txt -o D:/code/java/software_test/repo/unzip/T-MAX-FZU/output/output2.txt】
+【指令输出】
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
+【结果： 3】
+找不到输出文件：D:\code\java\software_test\repo\unzip\T-MAX-FZU\output\output2.txt (系统找不到指定的文件。)
+
+【时间：2019.11.18 at 14:29:02】
+【指令：D:\code\java\software_test\repo\unzip\T-MAX-FZU\wordCount.exe -i D:/code/java/software_test/team_test_case/input3.txt -o D:/code/java/software_test/repo/unzip/T-MAX-FZU/output/output3.txt -m 3 -n 20】
+【指令输出】
+<a clear high-resolution>: 39
+<clear high-resolution face>: 9
+<a blurry small>: 3
+<we present a>: 3
+<in this paper,>: 2
+<super-resolving and refining>: 2
+<high-resolution face from>: 2
+<generative adversarial network>: 2
+<from a blurry>: 2
+<this paper, we>: 2
+<and show that>: 2
+<show that the>: 2
+<demonstrate the effectiveness>: 2
+<face from a>: 2
+<progression, i.e. aging>: 1
+<present a model>: 1
+<portraits and styles.
+>: 1
+<quantitative evaluations show>: 1
+<pyramidal adversarial discriminator>: 1
+<present a new>: 1
+<present a novel>: 1
+<present desired aging>: 1
+<problem involves two>: 1
+<problem of super-resolving>: 1
+<problem, our style>: 1
+<progression: a pyramid>: 1
+<promote the discriminator>: 1
+<properties stable. further,>: 1
+<pyramid architecture of>: 1
+<proposed an algorithm>: 1
+<proposed method is>: 1
+<proposed method in>: 1
+<person in a>: 1
+<output of their>: 1
+<pairedcyclegan: asymmetric style>: 1
+<paper introduces an>: 1
+<paper, we present>: 1
+<paper, we proposed>: 1
+<perception, goal-driven navigation,>: 1
+<performance outperforms other>: 1
+<performs lba on>: 1
+<permanence, are not>: 1
+<presence of variations>: 1
+<personalized properties stable.>: 1
+<photo so that>: 1
+<photo will match>: 1
+<photo. our unsupervised>: 1
+<photo. we demonstrate>: 1
+<portrait photo so>: 1
+<question answering (vqa)>: 1
+<pose, expression, makeup,>: 1
+<potential to be>: 1
+<samples in the>: 1
+<relies on a>: 1
+<remaining open challenges>: 1
+<remarkably vivid aging>: 1
+<remove makeup -->: 1
+<removes the style.>: 1
+<removing makeup
+abstract: this>: 1
+<requirements of face>: 1
+<requires a range>: 1
+<respect to the>: 1
+<restoring a clear>: 1
+<sample efficient. we>: 1
+<reinforcement learning.
+
+
+1
+title: learning>: 1
+<scales, which simulates>: 1
+<second that can>: 1
+<separately models the>: 1
+<sequentially (e.g. sr-gan>: 1
+<setting. we present>: 1
+<show that it>: 1
+<show that our>: 1
+<simulates the aging>: 1
+<simultaneously keeping personalized>: 1
+<simultaneously. extensive experiments>: 1
+<random location in>: 1
+<question ("what color>: 1
+<question answering
+abstract: we>: 1
+<question answering (embodiedqa)>: 1
+<our style transfer>: 1
+<questions
+abstract: we introduce>: 1
+<questions and answers>: 1
+<questions are not>: 1
+<questions it wants>: 1
+<questions that generalize>: 1
+<quickly apply an>: 1
+<question ("orange"). embodiedqa>: 1
+<range of ai>: 1
+<range of portraits>: 1
+<real vs. fake>: 1
+<reason is that>: 1
+<reasoning, long-term memory,>: 1
+<recognition, active perception,>: 1
+<recover fine details>: 1
+<reference photo. our>: 1
+<refining jointly. we>: 1
+<refining sequentially (e.g.>: 1
+<navigation, commonsense reasoning,>: 1
+<more closely mimics>: 1
+<more data-efficient than>: 1
+<more lifelike facial>: 1
+<more sample efficient.>: 1
+<most questions are>: 1
+<multiple scales, which>: 1
+<must ask questions>: 1
+<must first intelligently>: 1
+<natural learning and>: 1
+<navigate to explore>: 1
+<models the constraints>: 1
+<necessary visual information>: 1
+<network
+abstract: face detection>: 1
+<network (gan). toward>: 1
+<network based approach.>: 1
+<network can then>: 1
+<network to address>: 1
+<network to distinguish>: 1
+<network to recover>: 1
+<networks to implement>: 1
+<networks. different from>: 1
+<memory, and grounding>: 1
+<learning-by-asking (lba). we>: 1
+<makeup
+abstract: this paper>: 1
+<makeup -- such>: 1
+<makeup in the>: 1
+<makeup style and>: 1
+<makeup style to>: 1
+<makeup, etc., and>: 1
+<manner. the proposed>: 1
+<match the input.>: 1
+<matches or outperforms>: 1
+<new ai task>: 1
+<method for editing>: 1
+<method in restoring>: 1
+<method is applicable>: 1
+<methods.
+
+
+3
+title: learning face>: 1
+<metrics, and a>: 1
+<mimics natural learning>: 1
+<model asks questions>: 1
+<model that performs>: 1
+<model trained with>: 1
+<models and to>: 1
+<open challenges is>: 1
+<of variations in>: 1
+<often lacking detailed>: 1
+<on a broad>: 1
+<on a new>: 1
+<on the challenging>: 1
+<on the clevr>: 1
+<one by adopting>: 1
+<one of remaining>: 1
+<one that transfers>: 1
+<one, and show>: 1
+<of their successive>: 1
+<or outperforms the>: 1
+<oracle. our lba>: 1
+<order to answer,>: 1
+<other state-of-the-art methods.
+
+
+3
+title:>: 1
+<our lba generated>: 1
+<our model asks>: 1
+<our proposed method>: 1
+<losses to guide>: 1
+<our unsupervised learning>: 1
+<outperforms other state-of-the-art>: 1
+<of another person>: 1
+<new framework of>: 1
+<new training losses>: 1
+<non-face simultaneously. extensive>: 1
+<not observed during>: 1
+<not well studied>: 1
+<novel generative adversarial>: 1
+<novel network to>: 1
+<novel test time>: 1
+<observed during training>: 1
+<of ai skills>: 1
+<outperforms the clevr>: 1
+<of cycle-consistent generative>: 1
+<of face age>: 1
+<of gans
+abstract: the>: 1
+<of intelligent visual>: 1
+<of our proposed>: 1
+<of portraits and>: 1
+<of questions and>: 1
+<of remaining open>: 1
+<of super-resolving and>: 1
+<of the visual>: 1
+<traditional vqa setting.>: 1
+<to explore the>: 1
+<to generate more>: 1
+<to guide the>: 1
+<to implement these>: 1
+<to novel test>: 1
+<to promote the>: 1
+<to recover fine>: 1
+<to state-of-the-art vqa>: 1
+<to the elapsed>: 1
+<to. thus, lba>: 1
+<toward this end,>: 1
+<to diverse face>: 1
+<train data and>: 1
+<trained with imitation>: 1
+<training in that>: 1
+<training losses to>: 1
+<training time, and>: 1
+<transfer for applying>: 1
+<transfer problem involves>: 1
+<transfer problem, our>: 1
+<transfer, whereas a>: 1
+<transfers makeup style>: 1
+<tiny faces are>: 1
+<then quickly apply>: 1
+<these functions -->: 1
+<this end, the>: 1
+<this paper introduces>: 1
+<this work, we>: 1
+<through first-person (egocentric)>: 1
+<thus, lba more>: 1
+<time distributions.
+
+
+2
+title: finding>: 1
+<time, and the>: 1
+<time, ensuring that>: 1
+<two asymmetric functions:>: 1
+<tiny faces in>: 1
+<title: embodied question>: 1
+<to address the>: 1
+<to an arbitrary>: 1
+<to an input>: 1
+<to answer, the>: 1
+<to be more>: 1
+<to be wearing>: 1
+<to directly generate>: 1
+<to distinguish real>: 1
+<where an agent>: 1
+<we construct two>: 1
+<we demonstrate the>: 1
+<we design a>: 1
+<we develop a>: 1
+<we explore lba>: 1
+<we introduce an>: 1
+<we proposed an>: 1
+<wearing makeup in>: 1
+<well studied in>: 1
+<when learning interactively>: 1
+<we also show>: 1
+<whereas a backward>: 1
+<which simulates the>: 1
+<while simultaneously keeping>: 1
+<wider face demonstrate>: 1
+<wild with generative>: 1
+<will match the>: 1
+<with generative adversarial>: 1
+<with imitation and>: 1
+<with respect to>: 1
+<work, we develop>: 1
+<visual question answering>: 1
+<two coupled networks>: 1
+<two underlying requirements>: 1
+<unconstrained conditions. the>: 1
+<underlying requirements of>: 1
+<understanding, visual recognition,>: 1
+<unsupervised learning approach>: 1
+<variations in pose,>: 1
+<vision, and then>: 1
+<visual fidelity and>: 1
+<visual information through>: 1
+<then answer the>: 1
+<visual recognition, active>: 1
+<visual systems, called>: 1
+<vivid aging effects>: 1
+<vqa models and>: 1
+<vqa setting. we>: 1
+<vqa training in>: 1
+<vs. fake and>: 1
+<vs. non-face simultaneously.>: 1
+<wants answers to.>: 1
+<we also introduce>: 1
+<that can remove>: 1
+<successive application to>: 1
+<such that the>: 1
+<synthesized face are>: 1
+<systems, called learning-by-asking>: 1
+<task -- embodied>: 1
+<task. lba differs>: 1
+<techniques have been>: 1
+<test time distributions.
+
+
+2
+title:>: 1
+<testing of intelligent>: 1
+<than the traditional>: 1
+<subject-specific characteristics and>: 1
+<that generalize to>: 1
+<that it automatically>: 1
+<that most questions>: 1
+<that our model>: 1
+<that performs lba>: 1
+<that the approach>: 1
+<that the detection>: 1
+<that the generated>: 1
+<that the output>: 1
+<that the subject>: 1
+<state-of-the-art.
+
+
+4
+title: pairedcyclegan: asymmetric>: 1
+<small faces in>: 1
+<small one by>: 1
+<small one, and>: 1
+<so that the>: 1
+<spawned at a>: 1
+<sr-gan and cycle-gan).>: 1
+<stable. further, to>: 1
+<standard vqa training>: 1
+<state-of-the-art methods.
+
+
+3
+title: learning>: 1
+<state-of-the-art vqa models>: 1
+<that tiny faces>: 1
+<studied in the>: 1
+<style and a>: 1
+<style network can>: 1
+<style of another>: 1
+<style to an>: 1
+<style transfer for>: 1
+<style transfer problem>: 1
+<style transfer, whereas>: 1
+<style. we construct>: 1
+<subject appears to>: 1
+<the reason is>: 1
+<the intrinsic subject-specific>: 1
+<the learned style>: 1
+<the learner must>: 1
+<the literature. in>: 1
+<the output of>: 1
+<the potential to>: 1
+<the presence of>: 1
+<the problem of>: 1
+<the proposed method>: 1
+<the question ("orange").>: 1
+<the input. the>: 1
+<the state-of-the-art.
+
+
+4
+title: pairedcyclegan:>: 1
+<the style of>: 1
+<the style. we>: 1
+<the subject appears>: 1
+<the synthesized face>: 1
+<the traditional vqa>: 1
+<the two underlying>: 1
+<the visual question>: 1
+<the wild with>: 1
+<their successive application>: 1
+<the constraints for>: 1
+<that transfers makeup>: 1
+<the age-specific facial>: 1
+<the agent must>: 1
+<the aging effects>: 1
+<the approach advances>: 1
+<the basic gan>: 1
+<the car?"). in>: 1
+<the challenging dataset>: 1
+<the clevr dataset,>: 1
+<the clevr train>: 1
+<skills -- language>: 1
+<the detection performance>: 1
+<the development and>: 1
+<the discriminator network>: 1
+<the effectiveness of>: 1
+<the effectiveness on>: 1
+<the elapsed time,>: 1
+<the environment, gather>: 1
+<the generated faces>: 1
+<the generator network>: 1
+<the image domain>: 1
+<ask questions it>: 1
+<approach relies on>: 1
+<approach. it separately>: 1
+<arbitrary makeup style>: 1
+<arbitrary photo. we>: 1
+<architecture of gans
+abstract:>: 1
+<are achieved. both>: 1
+<are estimated by>: 1
+<are not observed>: 1
+<are not well>: 1
+<are often lacking>: 1
+<approach advances the>: 1
+<asked a question>: 1
+<asking questions
+abstract: we>: 1
+<asks questions that>: 1
+<asymmetric functions: a>: 1
+<asymmetric style transfer>: 1
+<at a random>: 1
+<at multiple scales,>: 1
+<automatic method for>: 1
+<automatically discovers an>: 1
+<backward function removes>: 1
+<answer, the agent>: 1
+<and remarkably vivid>: 1
+<and removing makeup
+abstract:>: 1
+<and testing of>: 1
+<and the age-specific>: 1
+<and the learner>: 1
+<and then answer>: 1
+<and to novel>: 1
+<and to promote>: 1
+<another person in>: 1
+<answer the question>: 1
+<based approach. it>: 1
+<answering
+abstract: we present>: 1
+<answering (embodiedqa) -->: 1
+<answering (vqa) task.>: 1
+<answers in house3d>: 1
+<answers to. thus,>: 1
+<appears to be>: 1
+<applicable to diverse>: 1
+<application to an>: 1
+<apply an arbitrary>: 1
+<applying and removing>: 1
+<conveyed by the>: 1
+<clevr dataset, and>: 1
+<clevr train data>: 1
+<closely mimics natural>: 1
+<color is the>: 1
+<commonsense reasoning, long-term>: 1
+<conditions. the reason>: 1
+<consistently matches or>: 1
+<constraints for the>: 1
+<construct two coupled>: 1
+<context of the>: 1
+<characteristics and the>: 1
+<coupled networks to>: 1
+<curriculum when learning>: 1
+<cycle-consistent generative adversarial>: 1
+<cycle-gan). however, we>: 1
+<data and is>: 1
+<data consistently matches>: 1
+<data-efficient than the>: 1
+<dataset of questions>: 1
+<dataset wider face>: 1
+<dataset, and show>: 1
+<by adopting a>: 1
+<basic gan formulation>: 1
+<be more data-efficient>: 1
+<be wearing makeup>: 1
+<been developed for>: 1
+<blurring. in this>: 1
+<blurry small one>: 1
+<blurry small one,>: 1
+<both visual fidelity>: 1
+<broad range of>: 1
+<by a pyramidal>: 1
+<and reinforcement learning.
+
+
+1
+title:>: 1
+<by asking questions
+abstract:>: 1
+<by super-resolving and>: 1
+<by the synthesized>: 1
+<called learning-by-asking (lba).>: 1
+<can remove makeup>: 1
+<can then quickly>: 1
+<car?"). in order>: 1
+<challenges is detecting>: 1
+<challenging dataset wider>: 1
+<changes with respect>: 1
+<a range of>: 1
+<a model that>: 1
+<a new ai>: 1
+<a new framework>: 1
+<a novel generative>: 1
+<a novel network>: 1
+<a portrait photo>: 1
+<a pyramid architecture>: 1
+<a pyramidal adversarial>: 1
+<a question ("what>: 1
+<a random location>: 1
+<a hierarchical model>: 1
+<a reference photo.>: 1
+<a second that>: 1
+<accuracy and identity>: 1
+<achieved. both visual>: 1
+<achieves it by>: 1
+<actions. in this>: 1
+<active perception, goal-driven>: 1
+<address the problem>: 1
+<adopting a generative>: 1
+<advances the state-of-the-art.
+
+
+4
+title:>: 1
+<-- such that>: 1
+<("what color is>: 1
+<(e.g. sr-gan and>: 1
+<(egocentric) vision, and>: 1
+<(embodiedqa) -- where>: 1
+<(gan). toward this>: 1
+<(lba). we explore>: 1
+<(vqa) task. lba>: 1
+<-- embodied question>: 1
+<-- language understanding,>: 1
+<-- one that>: 1
+<adversarial discriminator at>: 1
+<-- where an>: 1
+<0 title: embodied>: 1
+<3d environment and>: 1
+<a 3d environment>: 1
+<a backward function>: 1
+<a broad range>: 1
+<a dataset of>: 1
+<a finer manner.>: 1
+<a forward function>: 1
+<a generative adversarial>: 1
+<and blurring. in>: 1
+<an arbitrary photo.>: 1
+<an automatic method>: 1
+<an easy-to-hard curriculum>: 1
+<an input photo>: 1
+<an interactive learning>: 1
+<an oracle. our>: 1
+<and a hierarchical>: 1
+<and a second>: 1
+<and answers in>: 1
+<and asked a>: 1
+<an arbitrary makeup>: 1
+<and cycle-gan). however,>: 1
+<and face vs.>: 1
+<and grounding language>: 1
+<and has the>: 1
+<and identity permanence,>: 1
+<and is more>: 1
+<and one of>: 1
+<and quantitative evaluations>: 1
+<and refining jointly.>: 1
+<and refining sequentially>: 1
+<aging accuracy and>: 1
+<adversarial network
+abstract: face>: 1
+<adversarial network (gan).>: 1
+<adversarial network based>: 1
+<adversarial networks. different>: 1
+<age progression, i.e.>: 1
+<age progression: a>: 1
+<age-specific facial changes>: 1
+<age-specific features conveyed>: 1
+<agent is spawned>: 1
+<agent must first>: 1
+<decades, and one>: 1
+<aging effects are>: 1
+<aging effects in>: 1
+<aging effects while>: 1
+<ai skills -->: 1
+<ai task -->: 1
+<algorithm to directly>: 1
+<also introduce new>: 1
+<also show that>: 1
+<an agent is>: 1
+<an algorithm to>: 1
+<in restoring a>: 1
+<image domain transfer>: 1
+<imitation and reinforcement>: 1
+<implement these functions>: 1
+<in a 3d>: 1
+<in a finer>: 1
+<in a reference>: 1
+<in context of>: 1
+<in house3d environments,>: 1
+<in order to>: 1
+<in pose, expression,>: 1
+<identity permanence, are>: 1
+<in that most>: 1
+<in the literature.>: 1
+<in the presence>: 1
+<in the style>: 1
+<in the wild>: 1
+<in this work,>: 1
+<in unconstrained conditions.>: 1
+<information and blurring.>: 1
+<information through first-person>: 1
+<input photo will>: 1
+<generator network to>: 1
+<gan formulation achieves>: 1
+<gans
+abstract: the two>: 1
+<gather necessary visual>: 1
+<generalize to state-of-the-art>: 1
+<generate a clear>: 1
+<generate more lifelike>: 1
+<generated data consistently>: 1
+<generated faces present>: 1
+<generative adversarial network
+abstract:>: 1
+<generative adversarial networks.>: 1
+<input. the learned>: 1
+<goal-driven navigation, commonsense>: 1
+<grounding language into>: 1
+<guide the generator>: 1
+<has the potential>: 1
+<have been developed>: 1
+<hierarchical model trained>: 1
+<high-level age-specific features>: 1
+<house3d environments, evaluation>: 1
+<however, we design>: 1
+<i.e. aging accuracy>: 1
+<learning and has>: 1
+<lacking detailed information>: 1
+<language into actions.>: 1
+<language understanding, visual>: 1
+<lba differs from>: 1
+<lba generated data>: 1
+<lba in context>: 1
+<lba more closely>: 1
+<lba on the>: 1
+<learned style network>: 1
+<learner must ask>: 1
+<keeping personalized properties>: 1
+<learning approach relies>: 1
+<learning by asking>: 1
+<learning face age>: 1
+<learning framework for>: 1
+<learning interactively from>: 1
+<("orange"). embodiedqa requires>: 1
+<learning.
+
+
+1
+title: learning by>: 1
+<lifelike facial details,>: 1
+<literature. in this>: 1
+<location in a>: 1
+<is applicable to>: 1
+<intelligent visual systems,>: 1
+<intelligently navigate to>: 1
+<interactive learning framework>: 1
+<interactively from an>: 1
+<into actions. in>: 1
+<intrinsic subject-specific characteristics>: 1
+<introduce an interactive>: 1
+<introduce new training>: 1
+<introduces an automatic>: 1
+<involves two asymmetric>: 1
+<further, to generate>: 1
+<is detecting small>: 1
+<is more sample>: 1
+<is spawned at>: 1
+<is that tiny>: 1
+<is the car?").>: 1
+<it automatically discovers>: 1
+<it by super-resolving>: 1
+<it separately models>: 1
+<it wants answers>: 1
+<jointly. we also>: 1
+<embodied question answering
+abstract:>: 1
+<easy-to-hard curriculum when>: 1
+<editing a portrait>: 1
+<effectiveness of our>: 1
+<effectiveness on a>: 1
+<effects are achieved.>: 1
+<effects in a>: 1
+<effects while simultaneously>: 1
+<efficient. we also>: 1
+<elapsed time, ensuring>: 1
+<embodied question answering>: 1
+<during training time,>: 1
+<embodiedqa requires a>: 1
+<encodes example-based style>: 1
+<end, the basic>: 1
+<ensuring that the>: 1
+<environment and asked>: 1
+<environment, gather necessary>: 1
+<environments, evaluation metrics,>: 1
+<estimated by a>: 1
+<etc., and remarkably>: 1
+<evaluation metrics, and>: 1
+<development and testing>: 1
+<design a novel>: 1
+<desired aging effects>: 1
+<detailed information and>: 1
+<details and to>: 1
+<details, high-level age-specific>: 1
+<detecting small faces>: 1
+<detection performance outperforms>: 1
+<detection techniques have>: 1
+<develop a dataset>: 1
+<developed for decades,>: 1
+<evaluations show that>: 1
+<different from the>: 1
+<differs from standard>: 1
+<directly generate a>: 1
+<discovers an easy-to-hard>: 1
+<discriminator at multiple>: 1
+<discriminator network to>: 1
+<distinguish real vs.>: 1
+<distributions.
+
+
+2
+title: finding tiny>: 1
+<diverse face samples>: 1
+<domain transfer problem,>: 1
+<formulation achieves it>: 1
+<finding tiny faces>: 1
+<fine details and>: 1
+<finer manner. the>: 1
+<first intelligently navigate>: 1
+<first-person (egocentric) vision,>: 1
+<for applying and>: 1
+<for decades, and>: 1
+<for editing a>: 1
+<for the development>: 1
+<for the intrinsic>: 1
+<fidelity and quantitative>: 1
+<forward function encodes>: 1
+<framework for the>: 1
+<framework of cycle-consistent>: 1
+<from an oracle.>: 1
+<from standard vqa>: 1
+<from the image>: 1
+<function encodes example-based>: 1
+<function removes the>: 1
+<functions -- one>: 1
+<functions: a forward>: 1
+<face detection techniques>: 1
+<example-based style transfer,>: 1
+<experiments on the>: 1
+<explore lba in>: 1
+<explore the environment,>: 1
+<expression, makeup, etc.,>: 1
+<extensive experiments on>: 1
+<face age progression,>: 1
+<face age progression:>: 1
+<face are estimated>: 1
+<face demonstrate the>: 1
+<long-term memory, and>: 1
+<face samples in>: 1
+<face vs. non-face>: 1
+<faces are often>: 1
+<faces in the>: 1
+<faces in unconstrained>: 1
+<faces present desired>: 1
+<facial changes with>: 1
+<facial details, high-level>: 1
+<fake and face>: 1
+<features conveyed by>: 1
+【结果： 0】
+
+【时间：2019.11.18 at 14:29:03】
+【指令：D:\code\java\software_test\repo\unzip\T-MAX-FZU\wordCount.exe -i D:/code/java/software_test/team_test_case/input4.txt -o D:/code/java/software_test/repo/unzip/T-MAX-FZU/output/output4.txt】
+【指令输出】
+<5
+saturday 6
+saturday 6
+sunday>: 1
+<title: qwert
+abstract: hhhhh
+monday>: 1
+<qwert
+abstract: hhhhh
+monday 1
+monday>: 1
+<monday 1 title:>: 1
+<hhhhh
+monday 1
+monday 1
+monday>: 1
+<abcd--abcd
+title:abcd-,abcd
+title: abcd-,abcd
+
+
+yeah
+
+one
+one123
+123one
+one!@#
+1monday
+
+12345 67890
+!@#$%>: 1
+<abcd-,abcd
+
+
+yeah
+
+one
+one123
+123one
+one!@#
+1monday
+
+12345 67890
+!@#$% ^&*()>: 1
+<7
+
+windows95
+windows98
+windows2000
+
+windows&linux
+windows10&ubuntu
+10windows&ubuntu
+
+abcd-abc1
+abcd-1abc
+
+title: abcd--abcd
+title:abcd-,abcd
+title: abcd-,abcd
+
+
+yeah
+
+one
+one123
+123one
+one!@#
+1monday
+
+12345>: 1
+<6
+sunday 7
+
+windows95
+windows98
+windows2000
+
+windows&linux
+windows10&ubuntu
+10windows&ubuntu
+
+abcd-abc1
+abcd-1abc
+
+title: abcd--abcd
+title:abcd-,abcd
+title:>: 1
+<6
+saturday 6
+sunday 7
+
+windows95
+windows98
+windows2000
+
+windows&linux
+windows10&ubuntu
+10windows&ubuntu
+
+abcd-abc1
+abcd-1abc
+
+title:>: 1
+<1
+monday 1
+monday 1
+tuesday>: 1
+<4
+thuresday 4
+friday 5
+saturday>: 1
+<4
+friday 5
+saturday 6
+saturday>: 1
+<3
+thuresday 4
+thuresday 4
+friday>: 1
+<2
+wednesday 3
+thuresday 4
+thuresday>: 1
+<2
+tuesday 2
+wednesday 3
+thuresday>: 1
+<2
+tuesday 2
+tuesday 2
+wednesday>: 1
+<1 title: qwert
+abstract:>: 1
+<1
+tuesday 2
+tuesday 2
+tuesday>: 1
+<1
+monday 1
+tuesday 2
+tuesday>: 1
+【结果： 0】
+
+【时间：2019.11.18 at 14:29:03】
+【指令：D:\code\java\software_test\repo\unzip\T-MAX-FZU\wordCount.exe -i D:/code/java/software_test/team_test_case/input5.txt -o D:/code/java/software_test/repo/unzip/T-MAX-FZU/output/output5.txt -n 15】
+【指令输出】
+<1
+		
+		
+
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+	
+\t\n
+
+abcdefghijklmnopqrstuvwxyz
+1234567890
+,./;'[]\<>?:"{}|`-=~!@#$%^&*()_+
+ 
+	
+
+>: 1
+<1
+monday 1
+		
+		
+
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+	
+\t\n
+
+abcdefghijklmnopqrstuvwxyz
+1234567890
+,./;'[]\<>?:"{}|`-=~!@#$%^&*()_+
+>: 1
+<1
+monday 1
+monday 1
+		
+		
+
+>: 1
+<1
+monday 1
+monday 1
+monday>: 1
+<https://www.baidu.com/
+https://baike.baidu.com/item/%e5%a4%a7%e6%95%b0%e6%8d%ae%e6%97%b6%e4%bb%a3/here4644597
+https://www.cnblogs.com/xing901022/p/6195422.html
+https://baijiahao.baidu.com/s?id=1627946973016507519&wfr=spider&for=pc
+http://news.sina.com.cn/o/2019-03-13/doc-ihsxncvh2061707.shtml
+
+
+monday 1
+monday 1
+monday>: 1
+<https://www.baidu.com/baidu?wd=cnblogs&tn=monline_4_dg&ie=utf-8 https://www.baidu.com/
+https://baike.baidu.com/item/%e5%a4%a7%e6%95%b0%e6%8d%ae%e6%97%b6%e4%bb%a3/here4644597
+https://www.cnblogs.com/xing901022/p/6195422.html
+https://baijiahao.baidu.com/s?id=1627946973016507519&wfr=spider&for=pc
+http://news.sina.com.cn/o/2019-03-13/doc-ihsxncvh2061707.shtml
+
+
+monday 1
+monday>: 1
+【结果： 0】
+
+【时间：2019.11.18 at 14:29:03】
+【指令：D:\code\java\software_test\repo\unzip\T-MAX-FZU\wordCount.exe -i D:/code/java/software_test/team_test_case/input6.txt -o D:/code/java/software_test/repo/unzip/T-MAX-FZU/output/output6.txt -m 2】
+【指令输出】
+<
+?file123?
+myfile file
+. .>: 1
+<. . 123
+file
+>: 1
+</// files files/file>: 1
+<124file filr123 a>: 1
+<a b ///>: 1
+<b /// files>: 1
+<file
+. . .>: 1
+<file 124file filr123>: 1
+<file file file,>: 1
+<file file, file>: 1
+<file, file 124file>: 1
+<files files/file 
+?file123?
+myfile>: 1
+<files/file 
+?file123?
+myfile file
+.>: 1
+<filr123 a b>: 1
+【结果： 0】
+
+【时间：2019.11.18 at 14:29:08】
+【指令：D:\code\java\software_test\repo\unzip\T-MAX-FZU\wordCount.exe -i D:/code/java/software_test/team_test_case/input7.txt -o D:/code/java/software_test/repo/unzip/T-MAX-FZU/output/output7.txt】
+【指令输出】
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
+【结果： 3】
+找不到输出文件：D:\code\java\software_test\repo\unzip\T-MAX-FZU\output\output7.txt (系统找不到指定的文件。)
+
+【时间：2019.11.18 at 14:29:08】
+【指令：D:\code\java\software_test\repo\unzip\T-MAX-FZU\wordCount.exe -i D:/code/java/software_test/team_test_case/input8.txt -o D:/code/java/software_test/repo/unzip/T-MAX-FZU/output/output8.txt】
+【指令输出】
+<
+
+ ! !>: 1
+<! ! fileand>: 1
+<! fileand file/>: 1
+</ file /file
+>: 1
+<file/ / file>: 1
+<fileand file/ />: 1
+【结果： 0】
+
+【时间：2019.11.18 at 14:29:09】
+【指令：D:\code\java\software_test\repo\unzip\T-MAX-FZU\wordCount.exe -i D:/code/java/software_test/team_test_case/input9.txt -o D:/code/java/software_test/repo/unzip/T-MAX-FZU/output/output9.txt】
+【指令输出】
+<12:30 am at>: 1
+<am at monday>: 1
+<at monday ha>: 1
+<boom p0p pop>: 1
+<dud boom p0p>: 1
+<ha okerrrr dud>: 1
+<monday ha okerrrr>: 1
+<okerrrr dud boom>: 1
+【结果： 0】
+
+【时间：2019.11.18 at 14:29:09】
+【指令：D:\code\java\software_test\repo\unzip\T-MAX-FZU\wordCount.exe -i D:/code/java/software_test/team_test_case/input10.txt -o D:/code/java/software_test/repo/unzip/T-MAX-FZU/output/output10.txt】
+【指令输出】
+<boom p0p ppop.p>: 1
+<duud boom p0p>: 1
+<ha okerrrr duud>: 1
+<monday ha okerrrr>: 1
+<okerrrr duud boom>: 1
+<p0p ppop.p okay1
+okay3,okay4oka
+>: 1
+【结果： 0】
+
+【时间：2019.11.18 at 14:29:10】
+【指令：D:\code\java\software_test\repo\unzip\T-MAX-FZU\wordCount.exe -i D:/code/java/software_test/team_test_case/input11.txt -o D:/code/java/software_test/repo/unzip/T-MAX-FZU/output/output11.txt】
+【指令输出】
+<1efg.asdf=12 sdsas
+test1 test2>: 1
+<22test3 test4 testa>: 1
+<sdsas
+test1 test2 22test3>: 1
+<test2 22test3 test4>: 1
+<test4 testa testb>: 1
+<testa testb admamsd
+
+*asda
+
++asda
+>: 1
+【结果： 0】
+
+【时间：2019.11.18 at 14:29:14】
+【指令：D:\code\java\software_test\repo\unzip\T-MAX-FZU\wordCount.exe -i D:/code/java/software_test/team_test_case/input12.txt -o D:/code/java/software_test/repo/unzip/T-MAX-FZU/output/output12.txt】
+【指令输出】
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
+【结果： 3】
+找不到输出文件：D:\code\java\software_test\repo\unzip\T-MAX-FZU\output\output12.txt (系统找不到指定的文件。)
+
+【时间：2019.11.18 at 14:29:15】
+【指令：D:\code\java\software_test\repo\unzip\T-MAX-FZU\wordCount.exe -i D:/code/java/software_test/team_test_case/input13.txt -o D:/code/java/software_test/repo/unzip/T-MAX-FZU/output/output13.txt -m 2】
+【指令输出】
+<bbbb aaaa bbbb>: 4
+<a bbbb aaaa>: 1
+<aaaa bbbb a>: 1
+<aaaa bbbb aaaa>: 1
+<bbbb a bbbb>: 1
+【结果： 0】
+
+
+【开始测试 研途: java: D:\code\java\software_test\repo\unzip\研途\output_classes\wordCount.class】
+【时间：2019.11.18 at 14:29:15】
+【指令：java -classpath D:\code\java\software_test\repo\unzip\研途\output_classes wordCount -i D:/code/java/software_test/team_test_case/input1.txt -o D:/code/java/software_test/repo/unzip/研途/output/output1.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:29:16】
+【指令：java -classpath D:\code\java\software_test\repo\unzip\研途\output_classes wordCount -i D:/code/java/software_test/team_test_case/input2.txt -o D:/code/java/software_test/repo/unzip/研途/output/output2.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:29:16】
+【指令：java -classpath D:\code\java\software_test\repo\unzip\研途\output_classes wordCount -i D:/code/java/software_test/team_test_case/input3.txt -o D:/code/java/software_test/repo/unzip/研途/output/output3.txt -m 3 -n 20】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:29:17】
+【指令：java -classpath D:\code\java\software_test\repo\unzip\研途\output_classes wordCount -i D:/code/java/software_test/team_test_case/input4.txt -o D:/code/java/software_test/repo/unzip/研途/output/output4.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:29:17】
+【指令：java -classpath D:\code\java\software_test\repo\unzip\研途\output_classes wordCount -i D:/code/java/software_test/team_test_case/input5.txt -o D:/code/java/software_test/repo/unzip/研途/output/output5.txt -n 15】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:29:18】
+【指令：java -classpath D:\code\java\software_test\repo\unzip\研途\output_classes wordCount -i D:/code/java/software_test/team_test_case/input6.txt -o D:/code/java/software_test/repo/unzip/研途/output/output6.txt -m 2】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:29:18】
+【指令：java -classpath D:\code\java\software_test\repo\unzip\研途\output_classes wordCount -i D:/code/java/software_test/team_test_case/input7.txt -o D:/code/java/software_test/repo/unzip/研途/output/output7.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:29:19】
+【指令：java -classpath D:\code\java\software_test\repo\unzip\研途\output_classes wordCount -i D:/code/java/software_test/team_test_case/input8.txt -o D:/code/java/software_test/repo/unzip/研途/output/output8.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:29:19】
+【指令：java -classpath D:\code\java\software_test\repo\unzip\研途\output_classes wordCount -i D:/code/java/software_test/team_test_case/input9.txt -o D:/code/java/software_test/repo/unzip/研途/output/output9.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:29:20】
+【指令：java -classpath D:\code\java\software_test\repo\unzip\研途\output_classes wordCount -i D:/code/java/software_test/team_test_case/input10.txt -o D:/code/java/software_test/repo/unzip/研途/output/output10.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:29:20】
+【指令：java -classpath D:\code\java\software_test\repo\unzip\研途\output_classes wordCount -i D:/code/java/software_test/team_test_case/input11.txt -o D:/code/java/software_test/repo/unzip/研途/output/output11.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:29:21】
+【指令：java -classpath D:\code\java\software_test\repo\unzip\研途\output_classes wordCount -i D:/code/java/software_test/team_test_case/input12.txt -o D:/code/java/software_test/repo/unzip/研途/output/output12.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:29:21】
+【指令：java -classpath D:\code\java\software_test\repo\unzip\研途\output_classes wordCount -i D:/code/java/software_test/team_test_case/input13.txt -o D:/code/java/software_test/repo/unzip/研途/output/output13.txt -m 2】
+【指令输出】
+【结果： 0】
+
+
+【开始测试 同行: cpp: D:\code\java\software_test\repo\unzip\同行\wordCount.exe】
+【时间：2019.11.18 at 14:29:22】
+【指令：D:\code\java\software_test\repo\unzip\同行\wordCount.exe -i D:/code/java/software_test/team_test_case/input1.txt -o D:/code/java/software_test/repo/unzip/同行/output/output1.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:29:23】
+【指令：D:\code\java\software_test\repo\unzip\同行\wordCount.exe -i D:/code/java/software_test/team_test_case/input2.txt -o D:/code/java/software_test/repo/unzip/同行/output/output2.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:29:23】
+【指令：D:\code\java\software_test\repo\unzip\同行\wordCount.exe -i D:/code/java/software_test/team_test_case/input3.txt -o D:/code/java/software_test/repo/unzip/同行/output/output3.txt -m 3 -n 20】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:29:23】
+【指令：D:\code\java\software_test\repo\unzip\同行\wordCount.exe -i D:/code/java/software_test/team_test_case/input4.txt -o D:/code/java/software_test/repo/unzip/同行/output/output4.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:29:24】
+【指令：D:\code\java\software_test\repo\unzip\同行\wordCount.exe -i D:/code/java/software_test/team_test_case/input5.txt -o D:/code/java/software_test/repo/unzip/同行/output/output5.txt -n 15】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:29:24】
+【指令：D:\code\java\software_test\repo\unzip\同行\wordCount.exe -i D:/code/java/software_test/team_test_case/input6.txt -o D:/code/java/software_test/repo/unzip/同行/output/output6.txt -m 2】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:29:24】
+【指令：D:\code\java\software_test\repo\unzip\同行\wordCount.exe -i D:/code/java/software_test/team_test_case/input7.txt -o D:/code/java/software_test/repo/unzip/同行/output/output7.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:29:25】
+【指令：D:\code\java\software_test\repo\unzip\同行\wordCount.exe -i D:/code/java/software_test/team_test_case/input8.txt -o D:/code/java/software_test/repo/unzip/同行/output/output8.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:29:25】
+【指令：D:\code\java\software_test\repo\unzip\同行\wordCount.exe -i D:/code/java/software_test/team_test_case/input9.txt -o D:/code/java/software_test/repo/unzip/同行/output/output9.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:29:26】
+【指令：D:\code\java\software_test\repo\unzip\同行\wordCount.exe -i D:/code/java/software_test/team_test_case/input10.txt -o D:/code/java/software_test/repo/unzip/同行/output/output10.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:29:26】
+【指令：D:\code\java\software_test\repo\unzip\同行\wordCount.exe -i D:/code/java/software_test/team_test_case/input11.txt -o D:/code/java/software_test/repo/unzip/同行/output/output11.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:29:26】
+【指令：D:\code\java\software_test\repo\unzip\同行\wordCount.exe -i D:/code/java/software_test/team_test_case/input12.txt -o D:/code/java/software_test/repo/unzip/同行/output/output12.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:29:27】
+【指令：D:\code\java\software_test\repo\unzip\同行\wordCount.exe -i D:/code/java/software_test/team_test_case/input13.txt -o D:/code/java/software_test/repo/unzip/同行/output/output13.txt -m 2】
+【指令输出】
+【结果： 0】
+
+
+【开始测试 小福bbs: cpp: D:\code\java\software_test\repo\unzip\小福bbs\wordCount.exe】
+【时间：2019.11.18 at 14:29:27】
+【指令：D:\code\java\software_test\repo\unzip\小福bbs\wordCount.exe -i D:/code/java/software_test/team_test_case/input1.txt -o D:/code/java/software_test/repo/unzip/小福bbs/output/output1.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:29:31】
+【指令：D:\code\java\software_test\repo\unzip\小福bbs\wordCount.exe -i D:/code/java/software_test/team_test_case/input2.txt -o D:/code/java/software_test/repo/unzip/小福bbs/output/output2.txt】
+【指令输出】
+【结果： -1073741819】
+找不到输出文件：D:\code\java\software_test\repo\unzip\小福bbs\output\output2.txt (系统找不到指定的文件。)
+
+【时间：2019.11.18 at 14:29:35】
+【指令：D:\code\java\software_test\repo\unzip\小福bbs\wordCount.exe -i D:/code/java/software_test/team_test_case/input3.txt -o D:/code/java/software_test/repo/unzip/小福bbs/output/output3.txt -m 3 -n 20】
+【指令输出】
+【结果： -1073741819】
+找不到输出文件：D:\code\java\software_test\repo\unzip\小福bbs\output\output3.txt (系统找不到指定的文件。)
+
+【时间：2019.11.18 at 14:29:39】
+【指令：D:\code\java\software_test\repo\unzip\小福bbs\wordCount.exe -i D:/code/java/software_test/team_test_case/input4.txt -o D:/code/java/software_test/repo/unzip/小福bbs/output/output4.txt】
+【指令输出】
+【结果： -1073741819】
+找不到输出文件：D:\code\java\software_test\repo\unzip\小福bbs\output\output4.txt (系统找不到指定的文件。)
+
+【时间：2019.11.18 at 14:29:43】
+【指令：D:\code\java\software_test\repo\unzip\小福bbs\wordCount.exe -i D:/code/java/software_test/team_test_case/input5.txt -o D:/code/java/software_test/repo/unzip/小福bbs/output/output5.txt -n 15】
+【指令输出】
+【结果： -1073741819】
+找不到输出文件：D:\code\java\software_test\repo\unzip\小福bbs\output\output5.txt (系统找不到指定的文件。)
+
+【时间：2019.11.18 at 14:29:47】
+【指令：D:\code\java\software_test\repo\unzip\小福bbs\wordCount.exe -i D:/code/java/software_test/team_test_case/input6.txt -o D:/code/java/software_test/repo/unzip/小福bbs/output/output6.txt -m 2】
+【指令输出】
+【结果： -1073741819】
+找不到输出文件：D:\code\java\software_test\repo\unzip\小福bbs\output\output6.txt (系统找不到指定的文件。)
+
+【时间：2019.11.18 at 14:29:47】
+【指令：D:\code\java\software_test\repo\unzip\小福bbs\wordCount.exe -i D:/code/java/software_test/team_test_case/input7.txt -o D:/code/java/software_test/repo/unzip/小福bbs/output/output7.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:29:48】
+【指令：D:\code\java\software_test\repo\unzip\小福bbs\wordCount.exe -i D:/code/java/software_test/team_test_case/input8.txt -o D:/code/java/software_test/repo/unzip/小福bbs/output/output8.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:29:48】
+【指令：D:\code\java\software_test\repo\unzip\小福bbs\wordCount.exe -i D:/code/java/software_test/team_test_case/input9.txt -o D:/code/java/software_test/repo/unzip/小福bbs/output/output9.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:29:49】
+【指令：D:\code\java\software_test\repo\unzip\小福bbs\wordCount.exe -i D:/code/java/software_test/team_test_case/input10.txt -o D:/code/java/software_test/repo/unzip/小福bbs/output/output10.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:29:52】
+【指令：D:\code\java\software_test\repo\unzip\小福bbs\wordCount.exe -i D:/code/java/software_test/team_test_case/input11.txt -o D:/code/java/software_test/repo/unzip/小福bbs/output/output11.txt】
+【指令输出】
+【结果： -1073741819】
+找不到输出文件：D:\code\java\software_test\repo\unzip\小福bbs\output\output11.txt (系统找不到指定的文件。)
+
+【时间：2019.11.18 at 14:29:53】
+【指令：D:\code\java\software_test\repo\unzip\小福bbs\wordCount.exe -i D:/code/java/software_test/team_test_case/input12.txt -o D:/code/java/software_test/repo/unzip/小福bbs/output/output12.txt】
+【指令输出】
+【结果： 0】
+
+【时间：2019.11.18 at 14:29:53】
+【指令：D:\code\java\software_test\repo\unzip\小福bbs\wordCount.exe -i D:/code/java/software_test/team_test_case/input13.txt -o D:/code/java/software_test/repo/unzip/小福bbs/output/output13.txt -m 2】
+【指令输出】
+【结果： 0】

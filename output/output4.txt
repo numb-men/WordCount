@@ -1,0 +1,13 @@
+characters: 393
+words: 38
+lines: 35
+<abcd>: 8
+<monday>: 4
+<title>: 4
+<tuesday>: 3
+<saturday>: 2
+<thuresday>: 2
+<ubuntu>: 2
+<abstract>: 1
+<friday>: 1
+<hhhhh>: 1

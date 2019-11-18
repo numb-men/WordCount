@@ -1,0 +1,12 @@
+characters: 79
+words: 10
+lines: 5
+<asda>: 2
+<admamsd>: 1
+<asdf>: 1
+<sdsas>: 1
+<test1>: 1
+<test2>: 1
+<test4>: 1
+<testa>: 1
+<testb>: 1

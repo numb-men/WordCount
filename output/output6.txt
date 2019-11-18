@@ -1,0 +1,6 @@
+characters: 100
+words: 12
+lines: 5
+<file file>: 2
+<files files>: 1
+<myfile file>: 1

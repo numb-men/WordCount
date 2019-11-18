@@ -1,0 +1,5 @@
+characters: 36
+words: 4
+lines: 1
+<file>: 3
+<fileand>: 1

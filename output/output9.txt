@@ -1,0 +1,6 @@
+characters: 47
+words: 3
+lines: 1
+<boom>: 1
+<monday>: 1
+<okerrrr>: 1
